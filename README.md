@@ -1,5 +1,7 @@
 # 📊 Data Analysis Projects
 
+![new](/assets/datanaly.jpg)
+
 <div align="center">
 
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge)
@@ -52,22 +54,6 @@ Welcome to my Data Analysis Projects repository! This collection showcases my ex
   ```
   jupyter notebook
   ```
-
----
-
-## 📊 Projects List
-
-<div align="center">
-
-| 🎯 Project Name | 📝 Description | 🛠️ Technologies | 📈 Status | 🔗 Link |
-|----------------|----------------|----------------|-----------|---------|
-| **Social Media Addiction Analysis** | Global analysis of social media addiction patterns among 705 students from 110 countries | Python, Pandas, Seaborn, Plotly, SciPy | ✅ Complete | [📊 View](./Social_Media_Addiction_Analysis) |
-| **E-commerce Sales Dashboard** | Interactive dashboard analyzing sales trends and customer behavior | Python, Dash, Plotly, SQL | 🚧 In Progress | [📊 View](./Ecommerce_Sales_Dashboard) |
-| **COVID-19 Impact Analysis** | Statistical analysis of pandemic effects on global economies | Python, Pandas, Matplotlib, Statsmodels | ✅ Complete | [📊 View](./COVID19_Impact_Analysis) |
-| **Stock Market Prediction** | Time series analysis and ML models for stock price prediction | Python, Scikit-learn, TensorFlow, yfinance | 🚧 In Progress | [📊 View](./Stock_Market_Prediction) |
-| **Customer Segmentation** | RFM analysis and clustering for customer behavior insights | Python, Scikit-learn, Seaborn, Plotly | ✅ Complete | [📊 View](./Customer_Segmentation) |
-
-</div>
 
 ---
 
@@ -125,30 +111,6 @@ Welcome to my Data Analysis Projects repository! This collection showcases my ex
 
 ---
 
-## 🎯 Project Categories
-
-### 📊 Business Analytics
-- **Customer Segmentation**: RFM analysis and behavioral clustering
-- **Sales Dashboard**: Interactive business intelligence dashboard
-- **Market Research**: Consumer behavior and trend analysis
-
-### 🌍 Social Impact Analysis
-- **Social Media Addiction**: Global student behavior patterns
-- **COVID-19 Impact**: Economic and social effects analysis
-- **Healthcare Analytics**: Public health data insights
-
-### 💰 Financial Analytics
-- **Stock Market Prediction**: Time series forecasting models
-- **Risk Assessment**: Portfolio optimization and analysis
-- **Cryptocurrency Analysis**: Market trend and volatility studies
-
-### 🤖 Machine Learning Projects
-- **Predictive Modeling**: Classification and regression problems
-- **Clustering Analysis**: Unsupervised learning applications
-- **Deep Learning**: Neural network implementations
-
----
-
 ## 📈 Skills Demonstrated
 
 ### 🔍 Data Analysis
@@ -200,13 +162,6 @@ I welcome contributions, suggestions, and collaborations! Here's how you can get
 - **📊 New Projects**: Collaborate on additional data analysis projects
 - **📝 Documentation**: Help improve project documentation
 
-### 📝 Contribution Process
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingAnalysis`)
-3. Commit your changes (`git commit -m 'Add amazing analysis'`)
-4. Push to the branch (`git push origin feature/AmazingAnalysis`)
-5. Open a Pull Request
-
 ---
 
 ## 👨‍💻 About Me
@@ -226,10 +181,10 @@ I'm a passionate data analyst with expertise in transforming complex datasets in
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratyushpuri)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/PratyushPuri)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pratyushpuri17@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://pratyushpuri.github.io/PratyushProfile)
 
 </div>
 
@@ -238,12 +193,6 @@ I'm a passionate data analyst with expertise in transforming complex datasets in
 - **🤝 Consulting**: Business analytics and insights
 - **🎓 Mentoring**: Data science learning and career guidance
 - **💼 Opportunities**: Full-time or freelance positions
-
----
-
-## 📄 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -260,14 +209,17 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ### 📊 Repository Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/DataAnalysisProjects?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/DataAnalysisProjects?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/DataAnalysisProjects?style=social)
+![GitHub stars](https://img.shields.io/github/stars/PratyushPuri/DataAnalysisProjects?style=social)
+![GitHub forks](https://img.shields.io/github/forks/PratyushPuri/DataAnalysisProjects?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/PratyushPuri/DataAnalysisProjects?style=social)
 
 **⭐ If you find these projects helpful, please give this repository a star! ⭐**
 
 *"In God we trust. All others must bring data." - W. Edwards Deming*
 
-**Made with ❤️ and lots of ☕ by [Your Name]**
+**Made with ❤️ and lots of ☕ by Pratyush Puri**
 
+**Want to Support me ?**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/pratyushpuri)
 </div>
