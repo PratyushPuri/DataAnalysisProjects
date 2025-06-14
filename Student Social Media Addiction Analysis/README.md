@@ -9,13 +9,17 @@
 
 *A comprehensive data analysis project examining social media addiction patterns among 705 students across 110 countries*
 
-[📊 View Analysis](#-project-overview) • [🚀 Quick Start](#-quick-start) • [📈 Key Findings](#-key-findings) • [🛠️ Tech Stack](#️-tech-stack)
+![Distraction Example](../assets/distract.jpg)
 
-![image](files/Users/jzhang/Desktop/Isolated.png)
 
 </div>
 
 ---
+<br>
+
+# **⭐⭐ If this project helped you, please give it a star! ⭐⭐**
+
+<br>
 
 ## 🎯 Project Overview
 
@@ -72,7 +76,7 @@ This project presents a comprehensive analysis of social media addiction pattern
 ---
 
 ## 📊 Project Structure
-
+```
 📦 social-media-addiction-analysis/
 ├── 📁 data/
 │ └── social_media_addiction_dataset.csv
@@ -87,8 +91,8 @@ This project presents a comprehensive analysis of social media addiction pattern
 ├── 📄 README.md
 ├── 📄 requirements.txt
 └── 📄 LICENSE
+```
 
----
 
 
 ---
@@ -258,42 +262,18 @@ We welcome contributions to enhance this analysis! Here's how you can help:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📊 Portfolio: [Your Portfolio Website]
+**[Pratyush Puri]**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pratyushpuri/)
+- 📧 Email: pratyushpuri17@gmail.com
+- 🐙 [GitHub](https://github.com/PratyushPuri)
+- 📊 [Portfolio](https://pratyushpuri.github.io/PratyushProfile)
 
 ---
-
-## 🙏 Acknowledgments
-
-- **Data Source**: [Original Dataset Provider]
-- **Inspiration**: Global digital wellness research community
-- **Tools**: Open-source Python data science ecosystem
-- **Community**: Stack Overflow and GitHub contributors
-
----
-
-## 📞 Contact & Support
-
-Have questions or suggestions? We'd love to hear from you!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
 **⭐ If this project helped you, please give it a star! ⭐**
 
@@ -306,6 +286,11 @@ Have questions or suggestions? We'd love to hear from you!
 *"Data is the new oil, but insights are the refined fuel that drives meaningful change."*
 
 **Made with ❤️ and lots of ☕**
+
+**Want to Support me ?**
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/pratyushpuri)
+
 
 </div>
 
