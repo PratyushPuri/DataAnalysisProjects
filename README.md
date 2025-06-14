@@ -56,7 +56,7 @@ Welcome to my Data Analysis Projects repository! This collection showcases my ex
   ```
 
 ---
-```
+
 ## 🛠️ Technologies Used
 
 <div align="center">
@@ -82,12 +82,12 @@ Welcome to my Data Analysis Projects repository! This collection showcases my ex
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 </div>
-```
+
 ---
 
+<!--
 ## 📁 Repository Structure
 
-  ```
   📦 DataAnalysisProjects/
 ├── 📁 Social_Media_Addiction_Analysis/
 │ ├── 📊 notebook.ipynb
@@ -107,7 +107,7 @@ Welcome to my Data Analysis Projects repository! This collection showcases my ex
 ├── 📄 requirements.txt
 ├── 📄 README.md
 └── 📄 LICENSE
- ```
+-->
 
 ---
 
