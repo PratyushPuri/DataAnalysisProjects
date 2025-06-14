@@ -128,11 +128,6 @@ Welcome to my Data Analysis Projects repository! This collection showcases my ex
 - **Statistical Plots**: Distribution, correlation, and comparison charts
 - **Geographic Visualization**: Choropleth maps and spatial analysis
 
-### 🤖 Machine Learning
-- **Supervised Learning**: Classification and regression algorithms
-- **Unsupervised Learning**: Clustering and dimensionality reduction
-- **Model Evaluation**: Cross-validation, metrics, and performance assessment
-
 ---
 
 ## 🚀 Getting Started with Individual Projects
