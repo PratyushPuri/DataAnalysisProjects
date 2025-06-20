@@ -1,5 +1,10 @@
 # Twitter US Airlines Sentiment Analysis
+
+![X US Airlines Sentiment Analysis](https://i.pinimg.com/736x/b9/bf/70/b9bf708d06a7b2d8a7fa9807248f8f7a.jpg)
+
 ## Comprehensive Data Science Project
+
+
 
 ### 🎯 Project Overview
 - **Dataset**: Twitter US Airlines Sentiment Data (Kaggle)
