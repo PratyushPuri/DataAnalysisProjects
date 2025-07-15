@@ -75,27 +75,10 @@ This project presents a comprehensive analysis of social media addiction pattern
 
 ---
 
-## 📊 Project Structure
-```
-📦 social-media-addiction-analysis/
-├── 📁 data/
-│ └── social_media_addiction_dataset.csv
-├── 📁 notebooks/
-│ └── Social_Media_Addiction_Analysis.ipynb
-├── 📁 visualizations/
-│ ├── choropleth_map.html
-│ ├── correlation_heatmap.png
-│ └── platform_analysis.png
-├── 📁 reports/
-│ └── executive_summary.pdf
-├── 📄 README.md
-├── 📄 requirements.txt
-└── 📄 LICENSE
-```
 
 
 
----
+
 
 ## 🔍 Analysis Sections
 
