@@ -1,7 +1,7 @@
 # 🚗 Electric Vehicle Specs Data Analysis 2025
 <div align="center">
   
-![Laptop Specs](../../assets/laptop_neon.jpg)
+![EV](../../assets/electric%20futuristic%20vehicle.jpg)
 
 </div>
 
