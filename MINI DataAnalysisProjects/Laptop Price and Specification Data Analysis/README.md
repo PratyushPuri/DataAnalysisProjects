@@ -1,5 +1,10 @@
 # 💻 Laptop Price and Specification Data Analysis
 
+<div align="center">
+  
+![Laptop Specs](../../assets/laptop_neon.jpg)
+
+</div>
 
 ## 📊 Project Overview
 
