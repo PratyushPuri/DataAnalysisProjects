@@ -1,4 +1,9 @@
 # 🚗 Electric Vehicle Specs Data Analysis 2025
+<div align="center">
+  
+![EV](../../assets/electric%20futuristic%20vehicle.jpg)
+
+</div>
 
 ## 📊 Project Overview
 
