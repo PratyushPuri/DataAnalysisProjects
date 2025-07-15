@@ -1,0 +1,479 @@
+brand,model,top_speed_kmh,battery_capacity_kWh,battery_type,number_of_cells,torque_nm,efficiency_wh_per_km,range_km,acceleration_0_100_s,fast_charging_power_kw_dc,fast_charge_port,towing_capacity_kg,cargo_volume_l,seats,drivetrain,segment,length_mm,width_mm,height_mm,car_body_type,source_url
+Abarth,500e Convertible,155,37.8,Lithium-ion,192,235,156,225,7.0,67,CCS,0,185,4,FWD,B - Compact,3673,1683,1518,Hatchback,https://ev-database.org/car/1904/Abarth-500e-Convertible
+Abarth,500e Hatchback,155,37.8,Lithium-ion,192,235,149,225,7.0,67,CCS,0,185,4,FWD,B - Compact,3673,1683,1518,Hatchback,https://ev-database.org/car/1903/Abarth-500e-Hatchback
+Abarth,600e Scorpionissima,200,50.8,Lithium-ion,102,345,158,280,5.9,79,CCS,0,360,5,FWD,JB - Compact,4187,1779,1557,SUV,https://ev-database.org/car/3057/Abarth-600e-Scorpionissima
+Abarth,600e Turismo,200,50.8,Lithium-ion,102,345,158,280,6.2,79,CCS,0,360,5,FWD,JB - Compact,4187,1779,1557,SUV,https://ev-database.org/car/3056/Abarth-600e-Turismo
+Aiways,U5,150,60.0,Lithium-ion,,310,156,315,7.5,78,CCS,,496,5,FWD,JC - Medium,4680,1865,1700,SUV,https://ev-database.org/car/1678/Aiways-U5
+Aiways,U6,160,60.0,Lithium-ion,,315,150,350,7.0,78,CCS,,472,5,FWD,JC - Medium,4805,1880,1641,SUV,https://ev-database.org/car/1766/Aiways-U6
+Alfa,Romeo Junior Elettrica 54 kWh,150,50.8,Lithium-ion,102,260,128,320,9.0,85,CCS,0,400,5,FWD,JB - Compact,4173,1781,1532,SUV,https://ev-database.org/car/2184/Alfa-Romeo-Junior-Elettrica-54-kWh
+Alfa,Romeo Junior Elettrica 54 kWh Veloce,200,50.8,Lithium-ion,102,345,164,310,6.0,85,CCS,0,400,5,FWD,JB - Compact,4173,1781,1505,SUV,https://ev-database.org/car/2185/Alfa-Romeo-Junior-Elettrica-54-kWh-Veloce
+Alpine,A290 Electric 180 hp,160,52.0,Lithium-ion,184,285,138,310,7.4,70,CCS,500,326,5,FWD,B - Compact,3997,1823,1512,Hatchback,https://ev-database.org/car/2268/Alpine-A290-Electric-180-hp
+Alpine,A290 Electric 220 hp,170,52.0,Lithium-ion,184,300,144,305,6.4,70,CCS,500,326,5,FWD,B - Compact,3997,1823,1512,Hatchback,https://ev-database.org/car/2269/Alpine-A290-Electric-220-hp
+Audi,A6 Avant e-tron,210,75.8,Lithium-ion,150,435,146,465,6.0,150,CCS,2100,502,5,RWD,JE - Executive,4928,1923,1455,Station/Estate,https://ev-database.org/car/3055/Audi-A6-Avant-e-tron
+Audi,A6 Avant e-tron performance,210,94.9,Lithium-ion,180,565,151,575,5.4,200,CCS,2100,502,5,RWD,JE - Executive,4928,1923,1455,Station/Estate,https://ev-database.org/car/2272/Audi-A6-Avant-e-tron-performance
+Audi,A6 Avant e-tron quattro,210,94.9,Lithium-ion,180,855,157,560,4.5,200,CCS,2100,502,5,AWD,JE - Executive,4928,1923,1455,Station/Estate,https://ev-database.org/car/3054/Audi-A6-Avant-e-tron-quattro
+Audi,A6 Sportback e-tron,210,75.8,Lithium-ion,150,435,136,495,6.0,150,CCS,2100,502,5,RWD,JE - Executive,4928,1923,1455,Liftback Sedan,https://ev-database.org/car/3053/Audi-A6-Sportback-e-tron
+Audi,A6 Sportback e-tron performance,210,94.9,Lithium-ion,180,565,141,610,5.4,200,CCS,2100,502,5,RWD,JE - Executive,4928,1923,1455,Liftback Sedan,https://ev-database.org/car/2270/Audi-A6-Sportback-e-tron-performance
+Audi,A6 Sportback e-tron quattro,210,94.9,Lithium-ion,180,855,147,590,4.7,200,CCS,2100,502,5,AWD,JE - Executive,4928,1923,1455,Liftback Sedan,https://ev-database.org/car/3052/Audi-A6-Sportback-e-tron-quattro
+Audi,Q4 Sportback e-tron 40,160,59.0,Lithium-ion,216,310,156,340,8.1,110,CCS,1000,520,5,RWD,JC - Medium,4588,1865,1614,SUV,https://ev-database.org/car/3149/Audi-Q4-Sportback-e-tron-40
+Audi,Q4 Sportback e-tron 45,180,77.0,Lithium-ion,288,545,162,435,6.7,120,CCS,1000,535,5,RWD,JC - Medium,4588,1865,1614,SUV,https://ev-database.org/car/2016/Audi-Q4-Sportback-e-tron-45
+Audi,Q4 Sportback e-tron 45 quattro,180,77.0,Lithium-ion,288,679,165,410,6.6,120,CCS,1200,535,5,AWD,JC - Medium,4588,1865,1614,SUV,https://ev-database.org/car/2017/Audi-Q4-Sportback-e-tron-45-quattro
+Audi,Q4 Sportback e-tron 55 quattro,180,77.0,Lithium-ion,288,679,165,415,5.4,120,CCS,1200,535,5,AWD,JC - Medium,4588,1865,1614,SUV,https://ev-database.org/car/2018/Audi-Q4-Sportback-e-tron-55-quattro
+Audi,Q4 e-tron 40,160,59.0,Lithium-ion,216,310,159,325,8.1,110,CCS,1000,520,5,RWD,JC - Medium,4588,1865,1632,SUV,https://ev-database.org/car/3148/Audi-Q4-e-tron-40
+Audi,Q4 e-tron 45,180,77.0,Lithium-ion,288,545,169,420,6.7,120,CCS,1000,520,5,RWD,JC - Medium,4588,1865,1632,SUV,https://ev-database.org/car/2013/Audi-Q4-e-tron-45
+Audi,Q4 e-tron 45 quattro,180,77.0,Lithium-ion,288,679,171,395,6.6,120,CCS,1200,520,5,AWD,JC - Medium,4588,1865,1632,SUV,https://ev-database.org/car/2014/Audi-Q4-e-tron-45-quattro
+Audi,Q4 e-tron 55 quattro,180,77.0,Lithium-ion,288,679,171,395,5.4,120,CCS,1200,520,5,AWD,JC - Medium,4588,1865,1632,SUV,https://ev-database.org/car/2015/Audi-Q4-e-tron-55-quattro
+Audi,Q6 e-tron,210,75.8,Lithium-ion,150,450,166,395,7.0,150,CCS,2000,526,5,RWD,JD - Large,4771,1939,1685,SUV,https://ev-database.org/car/2281/Audi-Q6-e-tron
+Audi,Q6 e-tron Sportback,210,75.8,Lithium-ion,150,450,139,410,7.0,150,CCS,2000,511,5,RWD,JD - Large,4771,1939,1665,SUV,https://ev-database.org/car/3041/Audi-Q6-e-tron-Sportback
+Audi,Q6 e-tron Sportback performance,210,94.9,Lithium-ion,180,485,145,510,6.6,190,CCS,2000,511,5,RWD,JD - Large,4771,1939,1665,SUV,https://ev-database.org/car/3042/Audi-Q6-e-tron-Sportback-performance
+Audi,Q6 e-tron Sportback quattro,210,94.9,Lithium-ion,180,855,149,500,5.9,200,CCS,2400,511,5,AWD,JD - Large,4771,1939,1665,SUV,https://ev-database.org/car/3043/Audi-Q6-e-tron-Sportback-quattro
+Audi,Q6 e-tron performance,210,94.9,Lithium-ion,180,485,171,490,6.6,190,CCS,2000,526,5,RWD,JD - Large,4771,1939,1685,SUV,https://ev-database.org/car/2215/Audi-Q6-e-tron-performance
+Audi,Q6 e-tron quattro,210,94.9,Lithium-ion,180,855,176,480,5.9,200,CCS,2400,10 Banana Boxes,5,AWD,JD - Large,4771,1939,1685,SUV,https://ev-database.org/car/2146/Audi-Q6-e-tron-quattro
+Audi,S6 Avant e-tron,240,94.9,Lithium-ion,180,855,156,530,3.9,200,CCS,2100,502,5,AWD,JE - Executive,4928,1923,1493,Station/Estate,https://ev-database.org/car/2273/Audi-S6-Avant-e-tron
+Audi,S6 Sportback e-tron,240,94.9,Lithium-ion,180,855,149,555,3.9,200,CCS,2100,502,5,AWD,JE - Executive,4928,1923,1465,Liftback Sedan,https://ev-database.org/car/2271/Audi-S6-Sportback-e-tron
+Audi,SQ6 e-tron,230,94.9,Lithium-ion,180,855,169,470,4.3,200,CCS,2400,514,5,AWD,JD - Large,4771,1965,1685,SUV,https://ev-database.org/car/2147/Audi-SQ6-e-tron
+Audi,SQ6 e-tron Sportback,230,94.9,Lithium-ion,180,855,164,495,4.3,200,CCS,2400,511,5,AWD,JD - Large,4771,1965,1665,SUV,https://ev-database.org/car/3044/Audi-SQ6-e-tron-Sportback
+Audi,e-tron GT RS,250,97.0,Lithium-ion,396,865,184,525,2.8,281,CCS,0,350,4,AWD,F - Luxury,4997,1964,1389,Sedan,https://ev-database.org/car/2220/Audi-e-tron-GT-RS
+Audi,e-tron GT RS performance,250,97.0,Lithium-ion,396,1027,182,525,2.5,281,CCS,0,350,4,AWD,F - Luxury,4997,1964,1389,Sedan,https://ev-database.org/car/2221/Audi-e-tron-GT-RS-performance
+Audi,e-tron GT S,245,97.0,Lithium-ion,396,740,172,540,3.4,281,CCS,0,405,4,AWD,F - Luxury,5004,1964,1394,Sedan,https://ev-database.org/car/2219/Audi-e-tron-GT-S
+Audi,e-tron GT quattro,245,97.0,Lithium-ion,396,625,169,540,4.0,281,CCS,0,405,4,AWD,F - Luxury,5004,1964,1394,Sedan,https://ev-database.org/car/3182/Audi-e-tron-GT-quattro
+BMW,i4 M50,225,81.3,Lithium-ion,,795,197,450,3.9,131,CCS,1600,470,5,AWD,D - Large,4783,1852,1448,Liftback Sedan,https://ev-database.org/car/2201/BMW-i4-M50
+BMW,i4 eDrive35,190,67.1,Lithium-ion,,400,174,430,6.0,95,CCS,1600,470,5,RWD,D - Large,4783,1852,1448,Liftback Sedan,https://ev-database.org/car/2198/BMW-i4-eDrive35
+BMW,i4 eDrive40,190,81.3,Lithium-ion,,430,174,515,5.6,131,CCS,1600,470,5,RWD,D - Large,4783,1852,1448,Liftback Sedan,https://ev-database.org/car/2199/BMW-i4-eDrive40
+BMW,i4 xDrive40,200,81.3,Lithium-ion,,600,183,490,5.1,131,CCS,1600,470,5,AWD,D - Large,4783,1852,1448,Liftback Sedan,https://ev-database.org/car/2200/BMW-i4-xDrive40
+BMW,i5 M60 xDrive Sedan (MY25),230,81.2,Lithium-ion,,795,172,430,3.8,136,CCS,2000,490,5,AWD,E - Executive,5060,1900,1505,Sedan,https://ev-database.org/car/3114/BMW-i5-M60-xDrive-Sedan
+BMW,i5 M60 xDrive Touring (MY25),230,81.2,Lithium-ion,,795,179,425,3.9,136,CCS,2000,570,5,AWD,E - Executive,5060,1900,1505,Station/Estate,https://ev-database.org/car/3117/BMW-i5-M60-xDrive-Touring
+BMW,i5 eDrive40 Sedan (MY25),193,81.2,Lithium-ion,,400,159,480,6.0,136,CCS,1500,490,5,RWD,E - Executive,5060,1900,1515,Sedan,https://ev-database.org/car/3112/BMW-i5-eDrive40-Sedan
+BMW,i5 eDrive40 Touring (MY25),193,81.2,Lithium-ion,,400,165,465,6.1,136,CCS,1500,570,5,RWD,E - Executive,5060,1900,1515,Station/Estate,https://ev-database.org/car/3115/BMW-i5-eDrive40-Touring
+BMW,i5 xDrive40 Sedan (MY25),215,81.2,Lithium-ion,,590,167,465,5.4,136,CCS,2000,490,5,AWD,E - Executive,5060,1900,1515,Sedan,https://ev-database.org/car/3113/BMW-i5-xDrive40-Sedan
+BMW,i5 xDrive40 Touring (MY25),215,81.2,Lithium-ion,,590,174,450,5.5,136,CCS,2000,570,5,AWD,E - Executive,5060,1900,1515,Station/Estate,https://ev-database.org/car/3116/BMW-i5-xDrive40-Touring
+BMW,i7 M70 xDrive,250,101.7,Lithium-ion,,1100,208,490,3.7,159,CCS,0,500,5,AWD,F - Luxury,5391,1950,1544,Sedan,https://ev-database.org/car/1838/BMW-i7-M70-xDrive
+BMW,i7 eDrive50,205,101.7,Lithium-ion,,650,177,520,5.5,159,CCS,0,500,5,RWD,F - Luxury,5391,1950,1544,Sedan,https://ev-database.org/car/1905/BMW-i7-eDrive50
+BMW,i7 xDrive60,240,101.7,Lithium-ion,,745,172,510,4.7,159,CCS,2000,500,5,AWD,F - Luxury,5391,1950,1544,Sedan,https://ev-database.org/car/1676/BMW-i7-xDrive60
+BMW,iX M70 xDrive,250,108.9,Lithium-ion,,1015,209,500,3.8,150,CCS,2500,500,5,AWD,JE - Executive,4965,1970,1695,SUV,https://ev-database.org/car/3111/BMW-iX-M70-xDrive
+BMW,iX xDrive45,200,94.8,Lithium-ion,,700,193,470,5.1,115,CCS,2500,500,5,AWD,JE - Executive,4965,1970,1695,SUV,https://ev-database.org/car/3109/BMW-iX-xDrive45
+BMW,iX xDrive60,200,109.1,Lithium-ion,,765,194,525,4.6,150,CCS,2500,500,5,AWD,JE - Executive,4965,1970,1695,SUV,https://ev-database.org/car/3110/BMW-iX-xDrive60
+BMW,iX1 eDrive20,170,64.7,Lithium-ion,,247,150,390,8.3,94,CCS,750,490,5,FWD,JC - Medium,4500,1845,1616,SUV,https://ev-database.org/car/1996/BMW-iX1-eDrive20
+BMW,iX1 xDrive30,180,64.7,Lithium-ion,,494,155,380,5.6,94,CCS,1200,490,5,AWD,JC - Medium,4500,1845,1616,SUV,https://ev-database.org/car/1701/BMW-iX1-xDrive30
+BMW,iX2 eDrive20,170,64.7,Lithium-ion,,247,147,395,8.6,94,CCS,750,525,5,FWD,JC - Medium,4554,1845,1560,SUV,https://ev-database.org/car/2097/BMW-iX2-eDrive20
+BMW,iX2 xDrive30,180,64.7,Lithium-ion,,494,155,385,5.6,94,CCS,1200,525,5,AWD,JC - Medium,4554,1845,1560,SUV,https://ev-database.org/car/2040/BMW-iX2-xDrive30
+BYD,ATTO 2,160,45.1,Lithium-ion,,290,145,245,7.9,51,CCS,750,400,5,FWD,JB - Compact,4310,1830,1675,SUV,https://ev-database.org/car/3125/BYD-ATTO-2
+BYD,ATTO 3 (MY25),160,60.5,Lithium-ion,126,310,144,340,7.3,75,CCS,750,440,5,FWD,JC - Medium,4455,1875,1615,SUV,https://ev-database.org/car/3192/BYD-ATTO-3
+BYD,DOLPHIN 44.9 kWh Active,150,44.9,Lithium-ion,104,180,132,265,12.3,50,CCS,0,345,5,FWD,C - Medium,4290,1770,1570,Hatchback,https://ev-database.org/car/1917/BYD-DOLPHIN-449-kWh-Active
+BYD,DOLPHIN 44.9 kWh Boost,160,44.9,Lithium-ion,104,,145,260,8.0,50,CCS,0,345,5,FWD,C - Medium,4290,1770,1570,Hatchback,https://ev-database.org/car/1918/BYD-DOLPHIN-449-kWh-Boost
+BYD,DOLPHIN 60.4 kWh,160,60.5,Lithium-ion,126,310,142,350,7.0,65,CCS,0,345,5,FWD,C - Medium,4290,1770,1570,Hatchback,https://ev-database.org/car/1919/BYD-DOLPHIN-604-kWh
+BYD,DOLPHIN SURF 30 kWh Active,150,30.0,Lithium-ion,94,175,136,190,11.1,45,CCS,0,308,4,FWD,B - Compact,3990,1720,1590,Hatchback,https://ev-database.org/car/3193/BYD-DOLPHIN-SURF-30-kWh-Active
+BYD,DOLPHIN SURF 43.2 kWh Boost,150,43.2,Lithium-ion,90,175,134,270,12.1,60,CCS,0,308,4,FWD,B - Compact,3990,1720,1590,Hatchback,https://ev-database.org/car/3194/BYD-DOLPHIN-SURF-432-kWh-Boost
+BYD,DOLPHIN SURF 43.2 kWh Comfort,150,43.2,Lithium-ion,90,220,139,265,9.1,60,CCS,0,308,4,FWD,B - Compact,3990,1720,1590,Hatchback,https://ev-database.org/car/3195/BYD-DOLPHIN-SURF-432-kWh-Comfort
+BYD,SEAL 61.4 kWh RWD Comfort,220,61.4,Lithium-ion,128,380,133,365,7.5,75,CCS,750,400,5,RWD,D - Large,4800,1875,1460,Sedan,https://ev-database.org/car/3102/BYD-SEAL-614-kWh-RWD-Comfort
+BYD,SEAL 82.5 kWh AWD Excellence,180,82.5,Lithium-ion,172,670,159,445,3.8,100,CCS,1500,400,5,AWD,D - Large,4800,1875,1460,Sedan,https://ev-database.org/car/2002/BYD-SEAL-825-kWh-AWD-Excellence
+BYD,SEAL 82.5 kWh RWD Design,180,82.5,Lithium-ion,172,360,145,480,5.9,100,CCS,750,400,5,RWD,D - Large,4800,1875,1460,Sedan,https://ev-database.org/car/2001/BYD-SEAL-825-kWh-RWD-Design
+BYD,SEAL U 71.8 kWh Comfort,175,71.8,Lithium-ion,132,310,171,360,9.3,72,CCS,1300,552,5,FWD,JD - Large,4785,1890,1668,SUV,https://ev-database.org/car/2094/BYD-SEAL-U-718-kWh-Comfort
+BYD,SEAL U 87 kWh Design,175,87.0,Lithium-ion,160,330,174,425,9.6,85,CCS,1300,552,5,FWD,JD - Large,4785,1890,1668,SUV,https://ev-database.org/car/2067/BYD-SEAL-U-87-kWh-Design
+BYD,SEALION 7 82.5 kWh AWD Design,215,82.5,Lithium-ion,172,690,181,400,4.5,115,CCS,1500,520,5,AWD,JD - Large,4830,1925,1620,SUV,https://ev-database.org/car/3071/BYD-SEALION-7-825-kWh-AWD-Design
+BYD,SEALION 7 82.5 kWh RWD Comfort,215,82.5,Lithium-ion,172,380,171,415,6.7,115,CCS,750,520,5,RWD,JD - Large,4830,1925,1620,SUV,https://ev-database.org/car/3070/BYD-SEALION-7-825-kWh-RWD-Comfort
+BYD,SEALION 7 91.3 kWh AWD Excellence,215,91.3,Lithium-ion,,690,182,430,4.5,165,CCS,1500,520,5,AWD,JD - Large,4830,1925,1620,SUV,https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence
+BYD,TANG Flagship,190,108.8,Lithium-ion,,700,205,460,4.9,100,CCS,1500,235,7,AWD,JE - Executive,4970,1955,1745,SUV,https://ev-database.org/car/2095/BYD-TANG-Flagship
+CUPRA,Born 170 kW - 59 kWh,160,59.0,Lithium-ion,216,310,156,360,6.7,110,CCS,0,385,5,RWD,C - Medium,4322,1809,1540,Hatchback,https://ev-database.org/car/2233/CUPRA-Born-170-kW---59-kWh
+CUPRA,Born 170 kW - 77 kWh,160,77.0,Lithium-ion,288,310,157,460,7.0,125,CCS,0,385,5,RWD,C - Medium,4322,1809,1540,Hatchback,https://ev-database.org/car/2234/CUPRA-Born-170-kW---77-kWh
+CUPRA,Born VZ,200,79.0,Lithium-ion,288,545,149,465,5.6,135,CCS,0,385,5,RWD,C - Medium,4322,1809,1538,Hatchback,https://ev-database.org/car/2128/CUPRA-Born-VZ
+CUPRA,Tavascan Endurance,180,77.0,Lithium-ion,288,545,142,445,6.8,120,CCS,1000,540,5,RWD,JC - Medium,4644,1861,1597,SUV,https://ev-database.org/car/1971/CUPRA-Tavascan-Endurance
+CUPRA,Tavascan VZ,180,77.0,Lithium-ion,288,545,150,425,5.5,120,CCS,1200,540,5,AWD,JC - Medium,4644,1861,1597,SUV,https://ev-database.org/car/1972/CUPRA-Tavascan-VZ
+Cadillac,Lyriq 600 E4,210,102.0,Lithium-ion,288,610,192,460,5.3,165,CCS,1587,793,5,AWD,JF - Luxury,5005,1977,1623,SUV,https://ev-database.org/car/2243/Cadillac-Lyriq-600-E4
+Citroen,e-Berlingo M 50 kWh,132,50.0,Lithium-ion,,260,149,235,11.7,80,CCS,750,775,5,FWD,N - Passenger Van,4403,1921,1803,Small Passenger Van,https://ev-database.org/car/2159/Citroen-e-Berlingo-M-50-kWh
+Citroen,e-Berlingo XL 50 kWh,132,50.0,Lithium-ion,,260,149,230,11.7,80,CCS,750,1050,7,FWD,N - Passenger Van,4753,1921,1814,Small Passenger Van,https://ev-database.org/car/2160/Citroen-e-Berlingo-XL-50-kWh
+Citroen,e-C3,135,44.0,Lithium-ion,,120,135,255,11.5,60,CCS,550,310,5,FWD,B - Compact,4015,1755,1577,Hatchback,https://ev-database.org/car/2039/Citroen-e-C3
+Citroen,e-C3 Aircross,145,44.0,Lithium-ion,,125,144,240,12.9,60,CCS,350,460,5,FWD,JB - Compact,4395,1795,1660,SUV,https://ev-database.org/car/2224/Citroen-e-C3-Aircross
+Citroen,e-C4,150,46.3,Lithium-ion,216,260,135,285,9.9,78,CCS,0,380,5,FWD,C - Medium,4360,1834,1525,Hatchback,https://ev-database.org/car/3047/Citroen-e-C4
+Citroen,e-C4 54 kWh,150,50.8,Lithium-ion,102,260,122,325,9.1,78,CCS,0,380,5,FWD,C - Medium,4360,1834,1525,Hatchback,https://ev-database.org/car/3048/Citroen-e-C4-54-kWh
+Citroen,e-C4 X,150,46.3,Lithium-ion,216,260,132,290,9.9,78,CCS,0,510,5,FWD,C - Medium,4600,1834,1525,Sedan,https://ev-database.org/car/3049/Citroen-e-C4-X
+Citroen,e-C4 X 54 kWh,150,50.8,Lithium-ion,102,260,119,335,9.1,78,CCS,0,510,5,FWD,C - Medium,4600,1834,1525,Sedan,https://ev-database.org/car/3050/Citroen-e-C4-X-54-kWh
+Citroen,e-SpaceTourer M 50 kWh,130,46.3,Lithium-ion,216,220,217,180,13.3,78,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2252/Citroen-e-SpaceTourer-M-50-kWh
+Citroen,e-SpaceTourer M 75 kWh,130,68.0,Lithium-ion,324,220,202,260,14.2,79,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2254/Citroen-e-SpaceTourer-M-75-kWh
+Citroen,e-SpaceTourer XL 50 kWh,130,46.3,Lithium-ion,216,220,219,180,13.3,78,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2253/Citroen-e-SpaceTourer-XL-50-kWh
+Citroen,e-SpaceTourer XL 75 kWh,130,68.0,Lithium-ion,324,220,204,260,14.2,79,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2255/Citroen-e-SpaceTourer-XL-75-kWh
+DS,3 E-Tense,150,50.8,Lithium-ion,102,260,128,300,9.0,85,CCS,0,350,5,FWD,JB - Compact,4118,1802,1534,SUV,https://ev-database.org/car/1791/DS-3-E-Tense
+DS,N°4 E-Tense,160,58.3,Lithium-ion,,345,130,375,7.1,70,CCS,0,390,5,FWD,JC - Medium,4400,1866,1470,Hatchback,https://ev-database.org/car/3200/DS-N4-E-Tense
+DS,N°8 AWD Long Range,190,97.2,Lithium-ion,,511,146,530,5.4,130,CCS,1400,620,5,AWD,JD - Large,4834,1920,1574,SUV,https://ev-database.org/car/3078/DS-N8-AWD-Long-Range
+DS,N°8 FWD,190,73.7,Lithium-ion,,345,141,415,7.7,100,CCS,1260,620,5,FWD,JD - Large,4834,1920,1574,SUV,https://ev-database.org/car/3076/DS-N8-FWD
+DS,N°8 FWD Long Range,190,97.2,Lithium-ion,,345,136,545,7.8,130,CCS,1200,620,5,FWD,JD - Large,4834,1920,1574,SUV,https://ev-database.org/car/3077/DS-N8-FWD-Long-Range
+Dacia,Spring Electric 45,125,25.0,Lithium-ion,72,125,109,165,19.1,29,CCS,0,308,4,FWD,A - Mini,3700,1622,1516,Hatchback,https://ev-database.org/car/2126/Dacia-Spring-Electric-45
+Dacia,Spring Electric 65,125,25.0,Lithium-ion,72,113,114,160,13.7,29,CCS,0,308,4,FWD,A - Mini,3700,1622,1516,Hatchback,https://ev-database.org/car/2127/Dacia-Spring-Electric-65
+Dongfeng,Box 31.4 kWh,140,29.0,Lithium-ion,,160,126,190,12.5,50,CCS,,326,5,FWD,B - Compact,4020,1810,1570,Hatchback,https://ev-database.org/car/3035/Dongfeng-Box-314-kWh
+Dongfeng,Box 42.3 kWh,140,40.0,Lithium-ion,,160,129,255,12.5,51,CCS,,326,5,FWD,B - Compact,4020,1810,1570,Hatchback,https://ev-database.org/car/3036/Dongfeng-Box-423-kWh
+Elaris,BEO 86 kWh,150,81.0,Lithium-ion,,320,203,390,9.5,65,CCS,,467,5,FWD,JD - Large,4698,1908,1696,SUV,https://ev-database.org/car/1975/Elaris-BEO-86-kWh
+Fiat,500e 3+1 24 kWh,135,21.3,Lithium-ion,108,220,112,135,9.0,40,CCS,0,185,4,FWD,B - Compact,3631,1683,1529,Hatchback,https://ev-database.org/car/1726/Fiat-500e-3plus1-24-kWh
+Fiat,500e 3+1 42 kWh,150,37.3,Lithium-ion,192,220,122,235,9.0,67,CCS,0,185,4,FWD,B - Compact,3631,1683,1529,Hatchback,https://ev-database.org/car/1328/Fiat-500e-3plus1-42-kWh
+Fiat,500e Cabrio 24 kWh,135,21.3,Lithium-ion,108,220,112,135,9.0,40,CCS,0,185,4,FWD,B - Compact,3631,1683,1529,Cabriolet,https://ev-database.org/car/1727/Fiat-500e-Cabrio-24-kWh
+Fiat,500e Cabrio 42 kWh,150,37.3,Lithium-ion,192,220,125,230,9.0,67,CCS,0,185,4,FWD,B - Compact,3631,1683,1529,Cabriolet,https://ev-database.org/car/1275/Fiat-500e-Cabrio-42-kWh
+Fiat,500e Hatchback 24 kWh,135,21.3,Lithium-ion,108,220,112,135,9.0,40,CCS,0,185,4,FWD,B - Compact,3631,1683,1529,Hatchback,https://ev-database.org/car/1327/Fiat-500e-Hatchback-24-kWh
+Fiat,500e Hatchback 42 kWh,150,37.3,Lithium-ion,192,220,118,235,9.0,67,CCS,0,185,4,FWD,B - Compact,3631,1683,1529,Hatchback,https://ev-database.org/car/1285/Fiat-500e-Hatchback-42-kWh
+Fiat,600e,150,50.8,Lithium-ion,102,260,124,310,9.0,79,CCS,0,360,5,FWD,JB - Compact,4171,1781,1523,SUV,https://ev-database.org/car/1945/Fiat-600e
+Fiat,Grande Panda,132,43.8,Lithium-ion,,122,136,260,11.0,60,CCS,550,361,5,FWD,B - Compact,3999,1763,1570,Hatchback,https://ev-database.org/car/2251/Fiat-Grande-Panda
+Ford,Capri Extended Range AWD,180,79.0,Lithium-ion,288,679,148,455,5.3,135,CCS,1200,572,5,AWD,D - Large,4643,1872,1626,Liftback Sedan,https://ev-database.org/car/2242/Ford-Capri-Extended-Range-AWD
+Ford,Capri Extended Range RWD,180,77.0,Lithium-ion,288,545,135,455,6.4,120,CCS,1000,572,5,RWD,D - Large,4643,1872,1626,Liftback Sedan,https://ev-database.org/car/2241/Ford-Capri-Extended-Range-RWD
+Ford,Capri Standard Range RWD,160,52.0,Lithium-ion,192,310,163,320,9.0,85,CCS,1000,572,5,RWD,D - Large,4643,1872,1626,Liftback Sedan,https://ev-database.org/car/2240/Ford-Capri-Standard-Range-RWD
+Ford,Explorer Extended Range AWD,180,79.0,Lithium-ion,288,679,153,440,5.3,135,CCS,1200,536,5,AWD,JC - Medium,4468,1871,1639,SUV,https://ev-database.org/car/2169/Ford-Explorer-Extended-Range-AWD
+Ford,Explorer Extended Range RWD,180,77.0,Lithium-ion,288,545,139,435,6.4,120,CCS,1000,536,5,RWD,JC - Medium,4468,1871,1630,SUV,https://ev-database.org/car/2168/Ford-Explorer-Extended-Range-RWD
+Ford,Explorer Standard Range RWD,160,52.0,Lithium-ion,192,310,137,305,8.7,85,CCS,1000,536,5,RWD,JC - Medium,4468,1871,1630,SUV,https://ev-database.org/car/2167/Ford-Explorer-Standard-Range-RWD
+Ford,Mustang Mach-E ER AWD (MY25),180,88.0,Lithium-ion,,675,160,435,4.8,105,CCS,1500,519,5,AWD,JD - Large,4713,1881,1624,SUV,https://ev-database.org/car/3189/Ford-Mustang-Mach-E-ER-AWD
+Ford,Mustang Mach-E ER AWD (MY24),180,91.0,Lithium-ion,376,675,165,445,4.6,115,CCS,1500,519,5,AWD,JD - Large,4713,1881,1624,SUV,https://ev-database.org/car/2279/Ford-Mustang-Mach-E-ER-AWD
+Ford,Mustang Mach-E ER RWD (MY25),180,88.0,Lithium-ion,,525,147,475,6.1,105,CCS,1500,519,5,RWD,JD - Large,4713,1881,1624,SUV,https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD
+Ford,Mustang Mach-E ER RWD (MY24),180,91.0,Lithium-ion,376,525,152,480,5.9,115,CCS,1500,519,5,RWD,JD - Large,4713,1881,1624,SUV,https://ev-database.org/car/2278/Ford-Mustang-Mach-E-ER-RWD
+Ford,Mustang Mach-E GT (MY24),200,91.0,Lithium-ion,376,950,177,425,3.8,115,CCS,750,519,5,AWD,JD - Large,4743,1881,1613,SUV,https://ev-database.org/car/2280/Ford-Mustang-Mach-E-GT
+Ford,Mustang Mach-E GT (MY25),200,91.0,Lithium-ion,376,950,177,435,3.8,115,CCS,750,519,5,AWD,JD - Large,4743,1881,1613,SUV,https://ev-database.org/car/3190/Ford-Mustang-Mach-E-GT
+Ford,Mustang Mach-E Rally (MY25),200,91.0,Lithium-ion,376,950,178,415,3.9,115,CCS,750,519,5,AWD,JD - Large,4743,1881,1633,SUV,https://ev-database.org/car/3191/Ford-Mustang-Mach-E-Rally
+Ford,Mustang Mach-E Rally (MY24),200,91.0,Lithium-ion,376,950,178,410,3.9,115,CCS,750,519,5,AWD,JD - Large,4743,1881,1633,SUV,https://ev-database.org/car/2275/Ford-Mustang-Mach-E-Rally
+Ford,Mustang Mach-E SR RWD (MY24),180,72.6,Lithium-ion,,525,154,385,6.2,100,CCS,750,519,5,RWD,JD - Large,4713,1881,1624,SUV,https://ev-database.org/car/2277/Ford-Mustang-Mach-E-SR-RWD
+Ford,Mustang Mach-E SR RWD (MY25),180,72.6,Lithium-ion,,525,154,380,6.2,100,CCS,750,519,5,RWD,JD - Large,4713,1881,1624,SUV,https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD
+Ford,Puma Gen-E,160,43.6,Lithium-ion,,290,126,275,8.0,85,CCS,750,523,5,FWD,JB - Compact,4214,1805,1555,SUV,https://ev-database.org/car/3073/Ford-Puma-Gen-E
+Ford,e-Tourneo Courier,145,43.6,Lithium-ion,,290,164,200,11.0,80,CCS,750,,5,FWD,N - Passenger Van,4337,1876,1817,Small Passenger Van,https://ev-database.org/car/3166/Ford-e-Tourneo-Courier
+Ford,e-Tourneo Custom L1 160 kW,130,64.0,Lithium-ion,,415,370,235,9.0,70,CCS,2000,672,8,RWD,N - Passenger Van,5050,1999,1959,Small Passenger Van,https://ev-database.org/car/3162/Ford-e-Tourneo-Custom-L1-160-kW
+Ford,e-Tourneo Custom L1 210 kW,130,64.0,Lithium-ion,,415,370,235,8.0,70,CCS,2000,672,8,RWD,N - Passenger Van,5050,1999,1959,Small Passenger Van,https://ev-database.org/car/3163/Ford-e-Tourneo-Custom-L1-210-kW
+Ford,e-Tourneo Custom L2 160 kW,150,64.0,Lithium-ion,,415,370,235,9.0,70,CCS,2000,672,8,RWD,N - Passenger Van,5908,1999,1959,Small Passenger Van,https://ev-database.org/car/3164/Ford-e-Tourneo-Custom-L2-160-kW
+Ford,e-Tourneo Custom L2 210 kW,150,64.0,Lithium-ion,,415,370,235,8.0,70,CCS,2000,672,8,RWD,N - Passenger Van,5908,1999,1959,Small Passenger Van,https://ev-database.org/car/3165/Ford-e-Tourneo-Custom-L2-210-kW
+GWM,ORA 03 48 kWh,160,45.4,Lithium-ion,,250,146,260,8.3,45,CCS,0,228,5,FWD,C - Medium,4235,1825,1603,Hatchback,https://ev-database.org/car/2091/GWM-ORA-03-48-kWh
+GWM,ORA 03 63 kWh,160,59.3,Lithium-ion,,250,141,340,8.2,56,CCS,0,228,5,FWD,C - Medium,4235,1825,1603,Hatchback,https://ev-database.org/car/2092/GWM-ORA-03-63-kWh
+GWM,ORA 03 GT,160,59.3,Lithium-ion,,250,148,325,8.2,56,CCS,0,228,5,FWD,C - Medium,4254,1848,1603,Hatchback,https://ev-database.org/car/2093/GWM-ORA-03-GT
+GWM,ORA 07 GT,180,83.5,Lithium-ion,,680,161,430,4.5,80,CCS,0,333,5,AWD,D - Large,4871,1862,1500,Sedan,https://ev-database.org/car/2247/GWM-ORA-07-GT
+GWM,ORA 07 Pro,170,64.3,Lithium-ion,,340,146,350,8.2,75,CCS,0,333,5,FWD,D - Large,4871,1862,1500,Sedan,https://ev-database.org/car/2246/GWM-ORA-07-Pro
+GWM,ORA 07 Pure,170,64.3,Lithium-ion,,340,146,350,8.2,75,CCS,0,333,5,FWD,D - Large,4871,1862,1500,Sedan,https://ev-database.org/car/2245/GWM-ORA-07-Pure
+Genesis,G80 Electrified Luxury,225,82.5,Lithium-ion,,700,159,440,4.9,160,CCS,,354,5,AWD,F - Luxury,5005,1925,1470,Sedan,https://ev-database.org/car/1703/Genesis-G80-Electrified-Luxury
+Genesis,GV60 Premium,185,74.0,Lithium-ion,384,350,143,390,7.8,200,CCS,1600,432,5,RWD,JC - Medium,4515,1890,1580,SUV,https://ev-database.org/car/1647/Genesis-GV60-Premium
+Genesis,GV60 Sport,200,74.0,Lithium-ion,384,605,157,375,5.5,200,CCS,1600,432,5,AWD,JC - Medium,4515,1890,1580,SUV,https://ev-database.org/car/1648/Genesis-GV60-Sport
+Genesis,GV60 Sport Plus,235,74.0,Lithium-ion,384,700,159,360,4.0,200,CCS,1600,432,5,AWD,JC - Medium,4515,1890,1580,SUV,https://ev-database.org/car/1649/Genesis-GV60-Sport-Plus
+Genesis,GV70 Electrified Sport,235,74.0,Lithium-ion,384,700,163,350,4.2,190,CCS,1800,503,5,AWD,JD - Large,4715,1910,1630,SUV,https://ev-database.org/car/1725/Genesis-GV70-Electrified-Sport
+Honda,e:Ny1,160,61.9,Lithium-ion,,310,150,335,7.6,60,CCS,0,361,5,FWD,JB - Compact,4387,1790,1584,SUV,https://ev-database.org/car/1940/Honda-eNy1
+Hongqi,E-HS9 120 kWh,200,112.0,Lithium-ion,,750,217,455,4.9,110,CCS,1500,438,5,AWD,JF - Luxury,5209,2010,1731,SUV,https://ev-database.org/car/2050/Hongqi-E-HS9-120-kWh
+Hongqi,E-HS9 84 kWh,200,76.5,Lithium-ion,,600,193,320,6.5,112,CCS,1500,438,5,AWD,JF - Luxury,5209,2010,1731,SUV,https://ev-database.org/car/1746/Hongqi-E-HS9-84-kWh
+Hongqi,E-HS9 99 kWh,200,90.0,Lithium-ion,,750,194,370,4.9,112,CCS,1500,438,5,AWD,JF - Luxury,5209,2010,1731,SUV,https://ev-database.org/car/1747/Hongqi-E-HS9-99-kWh
+Hyundai,INSTER Long Range,150,46.0,Lithium-ion,,147,124,300,10.6,70,CCS,,280,4,FWD,JA - Mini,3825,1610,1575,SUV,https://ev-database.org/car/2231/Hyundai-INSTER-Long-Range
+Hyundai,INSTER Standard Range,140,39.0,Lithium-ion,,147,119,255,11.7,60,CCS,,280,4,FWD,JA - Mini,3825,1610,1575,SUV,https://ev-database.org/car/2230/Hyundai-INSTER-Standard-Range
+Hyundai,IONIQ 5 63 kWh RWD (MY24),185,60.0,Lithium-ion,288,350,136,345,8.5,150,CCS,750,520,5,RWD,JC - Medium,4655,1890,1605,SUV,https://ev-database.org/car/2235/Hyundai-IONIQ-5-63-kWh-RWD
+Hyundai,IONIQ 5 84 kWh AWD (MY24),185,80.0,Lithium-ion,384,605,162,445,5.3,205,CCS,1600,520,5,AWD,JC - Medium,4655,1890,1605,SUV,https://ev-database.org/car/2237/Hyundai-IONIQ-5-84-kWh-AWD
+Hyundai,IONIQ 5 84 kWh RWD (MY24),185,80.0,Lithium-ion,384,350,155,450,7.5,205,CCS,1600,520,5,RWD,JC - Medium,4655,1890,1605,SUV,https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD
+Hyundai,IONIQ 5 N (MY24),260,80.0,Lithium-ion,384,740,179,390,3.4,205,CCS,0,480,5,AWD,JC - Medium,4715,1940,1585,SUV,https://ev-database.org/car/2044/Hyundai-IONIQ-5-N
+Hyundai,IONIQ 6 Long Range 2WD,185,74.0,Lithium-ion,384,350,136,495,7.4,200,CCS,1500,401,5,RWD,D - Large,4855,1880,1495,Sedan,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD
+Hyundai,IONIQ 6 Long Range AWD,185,74.0,Lithium-ion,384,605,143,440,5.1,200,CCS,1500,401,5,AWD,D - Large,4855,1880,1495,Sedan,https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD
+Hyundai,IONIQ 6 Standard Range 2WD,185,50.0,Lithium-ion,264,350,117,335,8.8,120,CCS,750,401,5,RWD,D - Large,4855,1880,1495,Sedan,https://ev-database.org/car/1717/Hyundai-IONIQ-6-Standard-Range-2WD
+Hyundai,IONIQ 9 Long Range AWD,200,106.0,Lithium-ion,,605,177,490,6.7,195,CCS,2500,338,7,AWD,JF - Luxury,5060,1980,1790,SUV,https://ev-database.org/car/3068/Hyundai-IONIQ-9-Long-Range-AWD
+Hyundai,IONIQ 9 Long Range RWD,185,106.0,Lithium-ion,,350,171,500,9.4,195,CCS,1600,338,7,RWD,JF - Luxury,5060,1980,1790,SUV,https://ev-database.org/car/3067/Hyundai-IONIQ-9-Long-Range-RWD
+Hyundai,IONIQ 9 Performance AWD,200,106.0,Lithium-ion,,700,177,480,5.2,195,CCS,2500,338,7,AWD,JF - Luxury,5060,1980,1790,SUV,https://ev-database.org/car/3069/Hyundai-IONIQ-9-Performance-AWD
+Hyundai,Kona Electric 48 kWh,160,48.4,Lithium-ion,,255,128,295,8.8,50,CCS,300,466,5,FWD,JB - Compact,4355,1825,1575,SUV,https://ev-database.org/car/1829/Hyundai-Kona-Electric-48-kWh
+Hyundai,Kona Electric 65 kWh,170,65.4,Lithium-ion,,255,144,390,7.8,86,CCS,750,466,5,FWD,JB - Compact,4355,1825,1575,SUV,https://ev-database.org/car/1830/Hyundai-Kona-Electric-65-kWh
+Jaguar,I-Pace EV400,200,84.7,Lithium-ion,432,696,208,380,4.8,85,CCS,750,505,5,AWD,JD - Large,4682,2011,1566,SUV,https://ev-database.org/car/1812/Jaguar-I-Pace-EV400
+Jeep,Avenger Electric,150,50.8,Lithium-ion,102,260,132,310,9.0,85,CCS,0,355,5,FWD,JB - Compact,4084,1776,1528,SUV,https://ev-database.org/car/1816/Jeep-Avenger-Electric
+Jeep,Compass Electric 74 kWh,180,74.0,Lithium-ion,,345,148,370,8.5,90,CCS,1000,550,5,FWD,JC - Medium,4552,1928,1675,SUV,https://ev-database.org/car/3181/Jeep-Compass-Electric-74-kWh
+KGM,Torres EVX,175,72.0,Lithium-ion,,339,156,370,8.1,85,CCS,1500,839,5,FWD,JC - Medium,4715,1890,1725,SUV,https://ev-database.org/car/2189/KGM-Torres-EVX
+Kia,EV3 Long Range,170,78.0,Lithium-ion,,283,139,455,7.7,105,CCS,1000,460,5,FWD,JB - Compact,4300,1850,1560,SUV,https://ev-database.org/car/2212/Kia-EV3-Long-Range
+Kia,EV3 Standard Range,170,55.0,Lithium-ion,,283,133,325,7.5,80,CCS,300,460,5,FWD,JB - Compact,4300,1850,1560,SUV,https://ev-database.org/car/2211/Kia-EV3-Standard-Range
+Kia,EV4 Hatchback Long Range,170,78.0,Lithium-ion,,283,132,475,7.7,105,CCS,,435,5,FWD,C - Medium,4430,1860,1485,Hatchback,https://ev-database.org/car/3124/Kia-EV4-Hatchback-Long-Range
+Kia,EV4 Hatchback Standard Range,170,55.0,Lithium-ion,,283,134,340,7.4,80,CCS,,435,5,FWD,C - Medium,4430,1860,1485,Hatchback,https://ev-database.org/car/3123/Kia-EV4-Hatchback-Standard-Range
+Kia,EV4 Sedan Long Range,170,78.0,Lithium-ion,,283,124,495,7.7,105,CCS,,490,5,FWD,C - Medium,4730,1860,1480,Sedan,https://ev-database.org/car/3122/Kia-EV4-Sedan-Long-Range
+Kia,EV4 Sedan Standard Range,170,55.0,Lithium-ion,,283,128,355,7.4,80,CCS,,490,5,FWD,C - Medium,4730,1860,1480,Sedan,https://ev-database.org/car/3121/Kia-EV4-Sedan-Standard-Range
+Kia,EV6 GT,260,80.0,Lithium-ion,384,770,178,385,3.5,205,CCS,1800,480,5,AWD,JC - Medium,4695,1890,1545,SUV,https://ev-database.org/car/3079/Kia-EV6-GT
+Kia,EV6 Long Range 2WD,185,80.0,Lithium-ion,384,350,143,455,7.3,205,CCS,1800,490,5,RWD,JC - Medium,4695,1880,1575,SUV,https://ev-database.org/car/3028/Kia-EV6-Long-Range-2WD
+Kia,EV6 Long Range AWD,185,80.0,Lithium-ion,384,605,154,440,5.2,205,CCS,1800,490,5,AWD,JC - Medium,4695,1880,1575,SUV,https://ev-database.org/car/3029/Kia-EV6-Long-Range-AWD
+Kia,EV6 Standard Range 2WD,185,60.0,Lithium-ion,288,350,140,345,8.7,150,CCS,750,490,5,RWD,JC - Medium,4695,1880,1575,SUV,https://ev-database.org/car/3030/Kia-EV6-Standard-Range-2WD
+Kia,EV9 76.1 kWh RWD,190,73.0,Lithium-ion,348,350,165,355,8.5,160,CCS,900,333,7,RWD,JF - Luxury,5010,1980,1755,SUV,https://ev-database.org/car/1833/Kia-EV9-761-kWh-RWD
+Kia,EV9 99.8 kWh AWD,200,96.0,Lithium-ion,456,600,188,435,6.0,194,CCS,2500,333,7,AWD,JF - Luxury,5010,1980,1755,SUV,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD
+Kia,EV9 99.8 kWh AWD GT,220,96.0,Lithium-ion,456,740,190,420,4.6,194,CCS,2500,333,7,AWD,JF - Luxury,5015,1980,1755,SUV,https://ev-database.org/car/3196/Kia-EV9-998-kWh-AWD-GT
+Kia,EV9 99.8 kWh AWD GT-Line,200,96.0,Lithium-ion,456,700,190,425,5.3,194,CCS,2500,333,7,AWD,JF - Luxury,5015,1980,1780,SUV,https://ev-database.org/car/1993/Kia-EV9-998-kWh-AWD-GT-Line
+Kia,EV9 99.8 kWh RWD,185,96.0,Lithium-ion,456,350,171,450,9.4,194,CCS,900,333,7,RWD,JF - Luxury,5010,1980,1755,SUV,https://ev-database.org/car/1834/Kia-EV9-998-kWh-RWD
+Kia,Niro EV,167,64.8,Lithium-ion,96,255,140,385,7.8,70,CCS,750,475,5,FWD,JC - Medium,4420,1825,1570,SUV,https://ev-database.org/car/1666/Kia-Niro-EV
+Lancia,Ypsilon,150,48.1,Lithium-ion,96,260,122,310,8.2,80,CCS,0,309,5,FWD,B - Compact,4080,1760,1440,Hatchback,https://ev-database.org/car/2117/Lancia-Ypsilon
+Leapmotor,C10,170,69.9,Lithium-ion,,320,166,350,7.5,70,CCS,1500,435,5,RWD,JD - Large,4739,1900,1680,SUV,https://ev-database.org/car/3040/Leapmotor-C10
+Leapmotor,T03,130,36.0,Lithium-ion,,158,136,225,12.7,30,CCS,,210,4,FWD,A - Mini,3620,1652,1577,Hatchback,https://ev-database.org/car/3039/Leapmotor-T03
+Lexus,RZ 300e,160,64.0,Lithium-ion,96,266,149,365,8.0,100,CCS,750,522,5,FWD,JC - Medium,4690,1860,1600,SUV,https://ev-database.org/car/3027/Lexus-RZ-300e
+Lexus,RZ 450e,160,64.0,Lithium-ion,96,435,158,350,5.6,100,CCS,750,522,5,AWD,JD - Large,4805,1895,1635,SUV,https://ev-database.org/car/1677/Lexus-RZ-450e
+Lexus,UX 300e,160,64.0,Lithium-ion,96,300,145,340,7.5,35,CHAdeMO,0,316,5,FWD,JC - Medium,4495,1840,1545,SUV,https://ev-database.org/car/1943/Lexus-UX-300e
+Lotus,Eletre,250,109.0,Lithium-ion,,710,204,495,4.5,259,CCS,2250,611,5,AWD,JF - Luxury,5103,2019,1630,SUV,https://ev-database.org/car/1767/Lotus-Eletre
+Lotus,Eletre R,260,109.0,Lithium-ion,,985,266,455,2.9,259,CCS,2250,611,5,AWD,JF - Luxury,5103,2019,1636,SUV,https://ev-database.org/car/1768/Lotus-Eletre-R
+Lotus,Eletre S,250,109.0,Lithium-ion,,710,222,480,4.5,259,CCS,2250,611,5,AWD,JF - Luxury,5103,2019,1630,SUV,https://ev-database.org/car/2066/Lotus-Eletre-S
+Lotus,Emeya,250,98.9,Lithium-ion,,710,198,520,4.2,240,CCS,2250,509,5,AWD,F - Luxury,5139,2005,1464,Liftback Sedan,https://ev-database.org/car/2141/Lotus-Emeya
+Lotus,Emeya R,256,98.9,Lithium-ion,,985,227,465,2.8,240,CCS,1225,509,5,AWD,F - Luxury,5139,2005,1464,Liftback Sedan,https://ev-database.org/car/2143/Lotus-Emeya-R
+Lotus,Emeya S,250,98.9,Lithium-ion,,710,198,520,4.2,240,CCS,2250,509,5,AWD,F - Luxury,5139,2005,1464,Liftback Sedan,https://ev-database.org/car/2142/Lotus-Emeya-S
+Lucid,Air Grand Touring,270,112.0,Lithium-ion,6600,1200,143,665,3.0,184,CCS,0,456,5,AWD,F - Luxury,4975,1939,1410,Sedan,https://ev-database.org/car/1316/Lucid-Air-Grand-Touring
+Lucid,Air Pure RWD,200,92.0,Lithium-ion,5400,,130,565,4.7,160,CCS,0,456,5,RWD,F - Luxury,4975,1939,1410,Sedan,https://ev-database.org/car/2116/Lucid-Air-Pure-RWD
+Lucid,Air Touring,250,92.0,Lithium-ion,5400,,142,580,3.2,160,CCS,0,456,5,AWD,F - Luxury,4975,1939,1410,Sedan,https://ev-database.org/car/1317/Lucid-Air-Touring
+Lynk&Co,02,180,65.0,Lithium-ion,,343,149,370,5.5,90,CCS,1600,410,5,RWD,JC - Medium,4460,1845,1573,SUV,https://ev-database.org/car/3045/LynkCo-02
+MG,Cyberster GT,200,74.4,Lithium-ion,,725,168,395,3.2,85,CCS,,249,2,AWD,G - Sports,4535,1913,1329,Cabriolet,https://ev-database.org/car/2203/MG-Cyberster-GT
+MG,Cyberster Trophy,195,74.4,Lithium-ion,,475,146,425,5.0,85,CCS,,249,2,RWD,G - Sports,4535,1913,1329,Cabriolet,https://ev-database.org/car/2202/MG-Cyberster-Trophy
+MG,4 Electric 51 kWh,160,50.8,Lithium-ion,104,250,145,300,7.7,68,CCS,500,363,5,RWD,C - Medium,4287,1836,1504,Hatchback,https://ev-database.org/car/1707/MG-MG4-Electric-51-kWh
+MG,4 Electric 64 kWh,160,61.7,Lithium-ion,104,250,142,360,7.9,116,CCS,500,363,5,RWD,C - Medium,4287,1836,1504,Hatchback,https://ev-database.org/car/1708/MG-MG4-Electric-64-kWh
+MG,4 Electric 77 kWh,180,74.4,Lithium-ion,,350,143,425,6.5,110,CCS,500,363,5,RWD,C - Medium,4287,1836,1516,Hatchback,https://ev-database.org/car/1973/MG-MG4-Electric-77-kWh
+MG,4 Electric XPOWER,200,61.7,Lithium-ion,104,600,160,320,3.8,116,CCS,500,363,5,AWD,C - Medium,4287,1836,1516,Hatchback,https://ev-database.org/car/1944/MG-MG4-Electric-XPOWER
+MG,5 Electric Long Range,185,57.4,Lithium-ion,,280,151,335,7.7,60,CCS,500,479,5,FWD,C - Medium,4600,1818,1543,Station/Estate,https://ev-database.org/car/1474/MG-MG5-Electric-Long-Range
+MG,5 Electric Standard Range,185,46.0,Lithium-ion,,280,148,265,7.7,53,CCS,500,479,5,FWD,C - Medium,4600,1818,1543,Station/Estate,https://ev-database.org/car/1646/MG-MG5-Electric-Standard-Range
+MG,S5  EV 49 kWh,170,47.1,Lithium-ion,,250,139,275,8.0,80,CCS,750,453,5,RWD,JC - Medium,4476,1849,1621,SUV,https://ev-database.org/car/3146/MG-MGS5--EV-49-kWh
+MG,S5  EV 64 kWh,190,62.1,Lithium-ion,,350,134,365,6.3,90,CCS,750,453,5,RWD,JC - Medium,4476,1849,1621,SUV,https://ev-database.org/car/3147/MG-MGS5--EV-64-kWh
+MG,ZS EV Long Range,175,68.3,Lithium-ion,,280,155,370,8.4,82,CCS,500,448,5,FWD,JB - Compact,4323,1809,1649,SUV,https://ev-database.org/car/1541/MG-ZS-EV-Long-Range
+MG,ZS EV Standard Range,175,49.0,Lithium-ion,,280,153,265,8.6,50,CCS,500,448,5,FWD,JB - Compact,4323,1809,1649,SUV,https://ev-database.org/car/1540/MG-ZS-EV-Standard-Range
+Maserati,GranCabrio Folgore,290,83.0,Lithium-ion,,1350,198,395,2.8,190,CCS,,151,4,AWD,F - Luxury,4966,1957,1365,Cabriolet,https://ev-database.org/car/2187/Maserati-GranCabrio-Folgore
+Maserati,GranTurismo Folgore,325,83.0,Lithium-ion,,1350,182,420,2.7,217,CCS,,270,4,AWD,F - Luxury,4959,1957,1353,Coupe,https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore
+Maserati,Grecale Folgore,220,95.0,Lithium-ion,,820,220,400,4.1,110,CCS,1800,535,5,AWD,JE - Executive,4865,1948,1651,SUV,https://ev-database.org/car/1843/Maserati-Grecale-Folgore
+Maxus,MIFA 9,180,84.0,Lithium-ion,,350,195,365,9.2,103,CCS,1000,31 Banana Boxes,7,FWD,N - Passenger Van,5270,2000,1840,Small Passenger Van,https://ev-database.org/car/1837/Maxus-MIFA-9
+Mazda,6e 68.8 kWh,175,66.0,Lithium-ion,,320,138,390,7.6,120,CCS,1500,456,5,RWD,D - Large,4921,1890,1491,Liftback Sedan,https://ev-database.org/car/3107/Mazda-6e-688-kWh
+Mazda,6e Long Range 80 kWh,175,75.0,Lithium-ion,,320,136,440,7.8,70,CCS,1500,456,5,RWD,D - Large,4921,1890,1491,Liftback Sedan,https://ev-database.org/car/3108/Mazda-6e-Long-Range-80-kWh
+Mercedes-Benz,CLA 250+,210,85.0,Lithium-ion,,335,122,565,6.7,235,CCS,1500,405,5,RWD,D - Large,4723,1855,1468,Sedan,https://ev-database.org/car/3139/Mercedes-Benz-CLA-250plus
+Mercedes-Benz,CLA 350 4MATIC,210,85.0,Lithium-ion,,515,126,550,4.9,235,CCS,1800,405,5,AWD,D - Large,4723,1855,1468,Sedan,https://ev-database.org/car/3140/Mercedes-Benz-CLA-350-4MATIC
+Mercedes-Benz,EQA 250,160,66.5,Lithium-ion,300,385,146,395,8.6,100,CCS,1500,340,5,FWD,JC - Medium,4463,1834,1620,SUV,https://ev-database.org/car/1984/Mercedes-Benz-EQA-250
+Mercedes-Benz,EQA 250+,160,70.5,Lithium-ion,,385,142,420,8.6,90,CCS,1500,340,5,FWD,JC - Medium,4463,1834,1620,SUV,https://ev-database.org/car/1985/Mercedes-Benz-EQA-250plus
+Mercedes-Benz,EQA 300 4MATIC,160,66.5,Lithium-ion,300,390,162,350,7.7,100,CCS,1800,340,5,AWD,JC - Medium,4463,1834,1620,SUV,https://ev-database.org/car/1986/Mercedes-Benz-EQA-300-4MATIC
+Mercedes-Benz,EQA 350 4MATIC,160,66.5,Lithium-ion,300,520,162,350,6.0,100,CCS,1800,340,5,AWD,JC - Medium,4463,1834,1620,SUV,https://ev-database.org/car/1987/Mercedes-Benz-EQA-350-4MATIC
+Mercedes-Benz,EQB 250+,160,70.5,Lithium-ion,,385,152,415,8.9,90,CCS,1400,495,7,FWD,JC - Medium,4684,1834,1667,SUV,https://ev-database.org/car/1988/Mercedes-Benz-EQB-250plus
+Mercedes-Benz,EQB 300 4MATIC,160,66.5,Lithium-ion,300,390,168,345,8.0,100,CCS,1700,495,7,AWD,JC - Medium,4684,1834,1667,SUV,https://ev-database.org/car/1989/Mercedes-Benz-EQB-300-4MATIC
+Mercedes-Benz,EQB 350 4MATIC,160,66.5,Lithium-ion,300,520,168,345,6.2,100,CCS,1700,495,7,AWD,JC - Medium,4684,1834,1667,SUV,https://ev-database.org/car/1990/Mercedes-Benz-EQB-350-4MATIC
+Mercedes-Benz,EQE 300,210,89.0,Lithium-ion,,550,163,525,7.3,120,CCS,750,430,5,RWD,E - Executive,4946,1906,1503,Sedan,https://ev-database.org/car/2204/Mercedes-Benz-EQE-300
+Mercedes-Benz,EQE 350 4MATIC,210,90.6,Lithium-ion,360,765,173,515,6.3,141,CCS,1700,430,5,AWD,E - Executive,4946,1906,1503,Sedan,https://ev-database.org/car/2206/Mercedes-Benz-EQE-350-4MATIC
+Mercedes-Benz,EQE 350+,210,96.0,Lithium-ion,,565,164,555,6.5,141,CCS,750,430,5,RWD,E - Executive,4946,1906,1510,Sedan,https://ev-database.org/car/2205/Mercedes-Benz-EQE-350plus
+Mercedes-Benz,EQE 500 4MATIC,210,90.6,Lithium-ion,360,858,173,505,4.7,141,CCS,1700,430,5,AWD,E - Executive,4946,1906,1503,Sedan,https://ev-database.org/car/2207/Mercedes-Benz-EQE-500-4MATIC
+Mercedes-Benz,EQE AMG 43 4MATIC,210,90.6,Lithium-ion,360,858,207,450,4.2,141,CCS,1700,430,5,AWD,E - Executive,4964,1906,1495,Sedan,https://ev-database.org/car/2208/Mercedes-Benz-EQE-AMG-43-4MATIC
+Mercedes-Benz,EQE AMG 53 4MATIC+,220,90.6,Lithium-ion,360,950,208,450,3.5,141,CCS,1700,430,5,AWD,E - Executive,4964,1906,1495,Sedan,https://ev-database.org/car/2209/Mercedes-Benz-EQE-AMG-53-4MATICplus
+Mercedes-Benz,EQE SUV 300,210,90.6,Lithium-ion,,550,182,450,7.6,141,CCS,750,520,5,RWD,JE - Executive,4863,1940,1685,SUV,https://ev-database.org/car/2045/Mercedes-Benz-EQE-SUV-300
+Mercedes-Benz,EQE SUV 350 4MATIC,210,90.6,Lithium-ion,,765,189,435,6.6,141,CCS,1800,520,5,AWD,JE - Executive,4863,1940,1685,SUV,https://ev-database.org/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC
+Mercedes-Benz,EQE SUV 350+,210,96.0,Lithium-ion,,565,164,475,6.9,141,CCS,750,520,5,RWD,JE - Executive,4863,1940,1685,SUV,https://ev-database.org/car/2046/Mercedes-Benz-EQE-SUV-350plus
+Mercedes-Benz,EQE SUV 500 4MATIC,210,96.0,Lithium-ion,,858,187,455,4.9,141,CCS,1800,520,5,AWD,JE - Executive,4863,1940,1685,SUV,https://ev-database.org/car/2048/Mercedes-Benz-EQE-SUV-500-4MATIC
+Mercedes-Benz,EQE SUV AMG 43 4MATIC,210,90.6,Lithium-ion,360,858,214,425,4.3,141,CCS,1800,520,5,AWD,JE - Executive,4879,1940,1672,SUV,https://ev-database.org/car/1763/Mercedes-Benz-EQE-SUV-AMG-43-4MATIC
+Mercedes-Benz,EQE SUV AMG 53 4MATIC+,240,90.6,Lithium-ion,360,1000,242,420,3.5,141,CCS,1800,520,5,AWD,JE - Executive,4879,1940,1672,SUV,https://ev-database.org/car/1764/Mercedes-Benz-EQE-SUV-AMG-53-4MATICplus
+Mercedes-Benz,EQS 350,210,96.0,Lithium-ion,360,565,165,570,6.7,130,CCS,750,620,5,RWD,F - Luxury,5223,1926,1512,Sedan,https://ev-database.org/car/2155/Mercedes-Benz-EQS-350
+Mercedes-Benz,EQS 450 4MATIC,210,118.0,Lithium-ion,,800,180,655,5.7,160,CCS,1700,620,5,AWD,F - Luxury,5223,1926,1518,Sedan,https://ev-database.org/car/2194/Mercedes-Benz-EQS-450-4MATIC
+Mercedes-Benz,EQS 450+,210,118.0,Lithium-ion,,568,173,685,6.2,160,CCS,750,620,5,RWD,F - Luxury,5223,1926,1518,Sedan,https://ev-database.org/car/2193/Mercedes-Benz-EQS-450plus
+Mercedes-Benz,EQS 500 4MATIC,210,118.0,Lithium-ion,,828,180,640,4.9,160,CCS,1700,620,5,AWD,F - Luxury,5223,1926,1518,Sedan,https://ev-database.org/car/2195/Mercedes-Benz-EQS-500-4MATIC
+Mercedes-Benz,EQS 580 4MATIC,210,118.0,Lithium-ion,,858,180,640,4.4,160,CCS,1700,620,5,AWD,F - Luxury,5223,1926,1518,Sedan,https://ev-database.org/car/2196/Mercedes-Benz-EQS-580-4MATIC
+Mercedes-Benz,EQS AMG 53 4MATIC+,250,118.0,Lithium-ion,,1020,222,585,3.4,160,CCS,1700,620,5,AWD,F - Luxury,5223,1926,1518,Sedan,https://ev-database.org/car/2197/Mercedes-Benz-EQS-AMG-53-4MATICplus
+Mercedes-Benz,EQS SUV 450 4MATIC,210,118.0,Lithium-ion,,800,199,530,6.1,160,CCS,1800,645,7,AWD,JF - Luxury,5125,1959,1718,SUV,https://ev-database.org/car/2088/Mercedes-Benz-EQS-SUV-450-4MATIC
+Mercedes-Benz,EQS SUV 450+,210,118.0,Lithium-ion,,568,195,540,6.8,160,CCS,750,645,7,RWD,JF - Luxury,5125,1959,1718,SUV,https://ev-database.org/car/2087/Mercedes-Benz-EQS-SUV-450plus
+Mercedes-Benz,EQS SUV 500 4MATIC,210,118.0,Lithium-ion,,828,199,530,5.3,160,CCS,1800,645,7,AWD,JF - Luxury,5125,1959,1718,SUV,https://ev-database.org/car/2089/Mercedes-Benz-EQS-SUV-500-4MATIC
+Mercedes-Benz,EQS SUV 580 4MATIC,210,118.0,Lithium-ion,,858,199,530,4.7,160,CCS,1800,13 Banana Boxes,7,AWD,JF - Luxury,5125,1959,1718,SUV,https://ev-database.org/car/2090/Mercedes-Benz-EQS-SUV-580-4MATIC
+Mercedes-Benz,EQS SUV Maybach 680,210,118.0,Lithium-ion,,950,211,490,4.4,160,CCS,1800,440,4,AWD,JF - Luxury,5125,1959,1725,SUV,https://ev-database.org/car/2086/Mercedes-Benz-EQS-SUV-Maybach-680
+Mercedes-Benz,EQT 200 Long,132,45.0,Lithium-ion,,245,177,220,13.3,50,CCS,1500,828,7,FWD,N - Passenger Van,4922,1859,1811,Small Passenger Van,https://ev-database.org/car/2239/Mercedes-Benz-EQT-200-Long
+Mercedes-Benz,EQT 200 Standard,132,45.0,Lithium-ion,,245,167,225,12.6,50,CCS,1500,551,5,FWD,N - Passenger Van,4498,1859,1819,Small Passenger Van,https://ev-database.org/car/1908/Mercedes-Benz-EQT-200-Standard
+Mercedes-Benz,EQV 250 Extra-Long,160,60.0,Lithium-ion,192,365,282,210,12.0,60,CCS,0,1410,7,FWD,N - Passenger Van,5370,1928,1911,Small Passenger Van,https://ev-database.org/car/2130/Mercedes-Benz-EQV-250-Extra-Long
+Mercedes-Benz,EQV 250 Long,160,60.0,Lithium-ion,192,365,282,215,12.0,60,CCS,0,1030,7,FWD,N - Passenger Van,5140,1928,1910,Small Passenger Van,https://ev-database.org/car/2129/Mercedes-Benz-EQV-250-Long
+Mercedes-Benz,EQV 300 Extra-Long,140,90.0,Lithium-ion,288,365,249,315,12.2,96,CCS,0,1410,7,FWD,N - Passenger Van,5370,1928,1901,Small Passenger Van,https://ev-database.org/car/2274/Mercedes-Benz-EQV-300-Extra-Long
+Mercedes-Benz,EQV 300 Long,160,90.0,Lithium-ion,288,365,276,320,12.1,96,CCS,0,1030,7,FWD,N - Passenger Van,5140,1928,1901,Small Passenger Van,https://ev-database.org/car/2131/Mercedes-Benz-EQV-300-Long
+Mercedes-Benz,G 580,180,116.0,Lithium-ion,216,1164,267,360,4.7,150,CCS,0,555,5,AWD,JF - Luxury,4624,1931,1986,SUV,https://ev-database.org/car/2192/Mercedes-Benz-G-580
+Mercedes-Benz,eVito Tourer Extra-Long 60 kWh,160,60.0,Lithium-ion,192,360,254,215,12.0,60,CCS,0,1390,8,FWD,N - Passenger Van,5370,1928,1890,Small Passenger Van,https://ev-database.org/car/2139/Mercedes-Benz-eVito-Tourer-Extra-Long-60-kWh
+Mercedes-Benz,eVito Tourer Long 60 kWh,160,60.0,Lithium-ion,192,360,259,220,12.0,60,CCS,0,990,8,FWD,N - Passenger Van,5140,1928,1890,Small Passenger Van,https://ev-database.org/car/2138/Mercedes-Benz-eVito-Tourer-Long-60-kWh
+Mercedes-Benz,eVito Tourer Long 90 kWh,160,90.0,Lithium-ion,288,360,260,325,12.1,96,CCS,0,990,8,FWD,N - Passenger Van,5140,1928,1890,Small Passenger Van,https://ev-database.org/car/2140/Mercedes-Benz-eVito-Tourer-Long-90-kWh
+Mini,Aceman E,160,38.5,Lithium-ion,,290,129,230,7.9,60,CCS,750,300,5,FWD,JB - Compact,4079,1754,1514,SUV,https://ev-database.org/car/2190/Mini-Aceman-E
+Mini,Aceman JCW,200,49.2,Lithium-ion,,350,143,280,6.4,75,CCS,750,300,5,FWD,JB - Compact,4079,1754,1514,SUV,https://ev-database.org/car/3059/Mini-Aceman-JCW
+Mini,Aceman SE,170,49.2,Lithium-ion,,330,129,290,7.1,75,CCS,750,300,5,FWD,JB - Compact,4079,1754,1514,SUV,https://ev-database.org/car/2191/Mini-Aceman-SE
+Mini,Cooper E,160,36.6,Lithium-ion,,290,125,250,7.3,60,CCS,0,200,4,FWD,B - Compact,3858,1756,1460,Hatchback,https://ev-database.org/car/1997/Mini-Cooper-E
+Mini,Cooper JCW,200,49.2,Lithium-ion,,350,135,290,5.9,75,CCS,0,200,4,FWD,B - Compact,3858,1756,1460,Hatchback,https://ev-database.org/car/3058/Mini-Cooper-JCW
+Mini,Cooper SE,170,49.2,Lithium-ion,,330,127,330,6.7,75,CCS,0,200,4,FWD,B - Compact,3858,1756,1460,Hatchback,https://ev-database.org/car/1998/Mini-Cooper-SE
+Mini,Countryman E,170,64.6,Lithium-ion,,250,140,380,8.6,94,CCS,750,460,5,FWD,JC - Medium,4433,1843,1656,SUV,https://ev-database.org/car/1994/Mini-Countryman-E
+Mini,Countryman SE ALL4,180,64.6,Lithium-ion,,494,149,365,5.6,94,CCS,1200,460,5,AWD,JC - Medium,4433,1843,1656,SUV,https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4
+NIO,EL6 Long Range,200,90.0,Lithium-ion,96,700,170,435,4.5,135,CCS,1200,579,5,AWD,JE - Executive,4854,1995,1703,SUV,https://ev-database.org/car/1922/NIO-EL6-Long-Range
+NIO,EL6 Standard Range,200,73.5,Lithium-ion,118,700,181,365,4.5,110,CCS,1200,579,5,AWD,JE - Executive,4854,1995,1703,SUV,https://ev-database.org/car/1921/NIO-EL6-Standard-Range
+NIO,EL7 Long Range,200,90.0,Lithium-ion,96,850,185,430,3.9,100,CCS,2000,570,5,AWD,JF - Luxury,4912,1987,1720,SUV,https://ev-database.org/car/1789/NIO-EL7-Long-Range
+NIO,EL7 Standard Range,200,73.5,Lithium-ion,118,850,198,355,3.9,110,CCS,2000,570,5,AWD,JF - Luxury,4912,1987,1720,SUV,https://ev-database.org/car/1788/NIO-EL7-Standard-Range
+NIO,EL8 Long Range,200,90.0,Lithium-ion,96,850,185,440,4.1,190,CCS,2000,265,6,AWD,JF - Luxury,5099,1989,1750,SUV,https://ev-database.org/car/2223/NIO-EL8-Long-Range
+NIO,EL8 Standard Range,200,73.5,Lithium-ion,118,850,196,360,4.1,110,CCS,2000,265,6,AWD,JF - Luxury,5099,1989,1750,SUV,https://ev-database.org/car/2222/NIO-EL8-Standard-Range
+NIO,ET5 Long Range,200,90.0,Lithium-ion,96,700,167,500,4.0,100,CCS,1400,386,5,AWD,E - Executive,4790,1960,1499,Sedan,https://ev-database.org/car/1787/NIO-ET5-Long-Range
+NIO,ET5 Standard Range,200,73.5,Lithium-ion,118,700,175,410,4.0,110,CCS,1400,386,5,AWD,E - Executive,4790,1960,1499,Sedan,https://ev-database.org/car/1786/NIO-ET5-Standard-Range
+NIO,ET5 Touring Long Range,200,90.0,Lithium-ion,96,700,178,485,4.0,135,CCS,1400,450,5,AWD,E - Executive,4790,1960,1499,Station/Estate,https://ev-database.org/car/1916/NIO-ET5-Touring-Long-Range
+NIO,ET5 Touring Standard Range,200,73.5,Lithium-ion,118,700,169,400,4.0,110,CCS,1400,450,5,AWD,E - Executive,4790,1960,1499,Station/Estate,https://ev-database.org/car/1915/NIO-ET5-Touring-Standard-Range
+NIO,ET7 Long Range,200,90.0,Lithium-ion,96,850,178,505,3.8,100,CCS,2000,363,5,AWD,F - Luxury,5101,1987,1509,Sedan,https://ev-database.org/car/1752/NIO-ET7-Long-Range
+NIO,ET7 Standard Range,200,73.5,Lithium-ion,118,850,191,415,3.8,110,CCS,2000,363,5,AWD,F - Luxury,5101,1987,1509,Sedan,https://ev-database.org/car/1751/NIO-ET7-Standard-Range
+Nissan,Ariya 63kWh,160,63.0,Lithium-ion,,300,175,335,7.5,90,CCS,750,468,5,FWD,JC - Medium,4595,1850,1660,SUV,https://ev-database.org/car/1301/Nissan-Ariya-63kWh
+Nissan,Ariya 87kWh,160,87.0,Lithium-ion,,300,169,450,7.6,110,CCS,750,468,5,FWD,JC - Medium,4595,1850,1660,SUV,https://ev-database.org/car/1302/Nissan-Ariya-87kWh
+Nissan,Ariya e-4ORCE 87kWh - 225 kW,200,87.0,Lithium-ion,,600,190,405,5.7,110,CCS,1500,415,5,AWD,JC - Medium,4595,1850,1660,SUV,https://ev-database.org/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW
+Nissan,Ariya e-4ORCE 87kWh - 320 kW Nismo,200,87.0,Lithium-ion,,600,209,385,5.0,110,CCS,,415,5,AWD,JC - Medium,4655,1850,1660,SUV,https://ev-database.org/car/3074/Nissan-Ariya-e-4ORCE-87kWh---320-kW-Nismo
+Nissan,Townstar EV Passenger,132,45.0,Lithium-ion,,245,158,225,12.6,50,CCS,1500,819,5,FWD,N - Passenger Van,4488,1860,1838,Small Passenger Van,https://ev-database.org/car/2042/Nissan-Townstar-EV-Passenger
+Nissan,Townstar EV Passenger L2,130,45.0,Lithium-ion,,245,173,220,13.3,50,CCS,1500,819,7,FWD,N - Passenger Van,4911,1860,1815,Small Passenger Van,https://ev-database.org/car/3084/Nissan-Townstar-EV-Passenger-L2
+Omoda,E5,172,61.0,Lithium-ion,,340,152,345,7.6,60,CCS,,380,5,FWD,JC - Medium,4424,1830,1588,SUV,https://ev-database.org/car/3046/Omoda-E5
+Opel,Astra Electric,170,50.8,Lithium-ion,102,270,128,320,9.2,85,CCS,0,352,5,FWD,C - Medium,4374,1860,1470,Hatchback,https://ev-database.org/car/1792/Opel-Astra-Electric
+Opel,Astra Sports Tourer Electric,170,50.8,Lithium-ion,102,270,123,310,9.3,85,CCS,0,516,5,FWD,C - Medium,4642,1860,1480,Station/Estate,https://ev-database.org/car/1793/Opel-Astra-Sports-Tourer-Electric
+Opel,Combo-e Life 50 kWh,135,50.0,Lithium-ion,,260,149,235,11.3,80,CCS,750,775,5,FWD,N - Passenger Van,4410,1921,1812,Small Passenger Van,https://ev-database.org/car/2161/Opel-Combo-e-Life-50-kWh
+Opel,Combo-e Life XL 50 kWh,135,50.0,Lithium-ion,,260,149,230,11.3,80,CCS,750,1050,7,FWD,N - Passenger Van,4760,1921,1818,Small Passenger Van,https://ev-database.org/car/2162/Opel-Combo-e-Life-XL-50-kWh
+Opel,Corsa Electric 50 kWh,150,46.3,Lithium-ion,216,260,131,290,8.7,78,CCS,0,267,5,FWD,B - Compact,4061,1765,1435,Hatchback,https://ev-database.org/car/1941/Opel-Corsa-Electric-50-kWh
+Opel,Corsa Electric 51 kWh,150,48.1,Lithium-ion,96,260,120,315,8.1,80,CCS,0,267,5,FWD,B - Compact,4061,1765,1435,Hatchback,https://ev-database.org/car/1942/Opel-Corsa-Electric-51-kWh
+Opel,Frontera 44 kWh,140,44.0,Lithium-ion,,120,144,245,12.1,60,CCS,350,460,5,FWD,JB - Compact,4385,1795,1635,SUV,https://ev-database.org/car/2238/Opel-Frontera-44-kWh
+Opel,Grandland 73 kWh,170,73.0,Lithium-ion,96,260,145,365,9.0,90,CCS,1200,550,5,FWD,JC - Medium,4650,1934,1665,SUV,https://ev-database.org/car/3037/Opel-Grandland-73-kWh
+Opel,Grandland 82 kWh,170,82.2,Lithium-ion,,260,146,410,9.0,100,CCS,1200,550,5,FWD,JC - Medium,4650,1934,1665,SUV,https://ev-database.org/car/3038/Opel-Grandland-82-kWh
+Opel,Mokka Electric,150,50.8,Lithium-ion,102,260,126,285,9.0,85,CCS,0,310,5,FWD,JB - Compact,4151,1790,1534,SUV,https://ev-database.org/car/3051/Opel-Mokka-Electric
+Opel,Zafira-e Life L2 50 kWh,130,46.3,Lithium-ion,216,270,217,180,13.3,78,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2260/Opel-Zafira-e-Life-L2-50-kWh
+Opel,Zafira-e Life L2 75 kWh,130,68.0,Lithium-ion,324,270,202,260,14.2,79,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2262/Opel-Zafira-e-Life-L2-75-kWh
+Opel,Zafira-e Life L3 50 kWh,130,46.3,Lithium-ion,216,270,219,180,13.3,78,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2261/Opel-Zafira-e-Life-L3-50-kWh
+Opel,Zafira-e Life L3 75 kWh,130,68.0,Lithium-ion,324,260,204,260,14.2,79,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2263/Opel-Zafira-e-Life-L3-75-kWh
+Peugeot,e-2008 50 kWh,150,46.3,Lithium-ion,216,260,136,270,9.9,78,CCS,0,434,5,FWD,JB - Compact,4304,1775,1523,SUV,https://ev-database.org/car/1946/Peugeot-e-2008-50-kWh
+Peugeot,e-2008 54 kWh,150,50.8,Lithium-ion,102,260,125,300,9.1,85,CCS,0,434,5,FWD,JB - Compact,4304,1775,1523,SUV,https://ev-database.org/car/1947/Peugeot-e-2008-54-kWh
+Peugeot,e-208 50 kWh,150,46.3,Lithium-ion,216,260,132,290,9.0,78,CCS,0,265,5,FWD,B - Compact,4055,1765,1430,Hatchback,https://ev-database.org/car/1948/Peugeot-e-208-50-kWh
+Peugeot,e-208 51 kWh,150,48.1,Lithium-ion,96,260,120,310,8.2,80,CCS,0,265,5,FWD,B - Compact,4055,1765,1430,Hatchback,https://ev-database.org/car/1949/Peugeot-e-208-51-kWh
+Peugeot,e-3008 73 kWh,170,73.0,Lithium-ion,96,345,143,380,8.8,90,CCS,1250,588,5,FWD,JC - Medium,4542,1895,1641,SUV,https://ev-database.org/car/2003/Peugeot-e-3008-73-kWh
+Peugeot,e-3008 73 kWh Dual Motor,170,73.0,Lithium-ion,96,511,195,375,6.4,90,CCS,,588,5,AWD,JC - Medium,4542,1895,1641,SUV,https://ev-database.org/car/2004/Peugeot-e-3008-73-kWh-Dual-Motor
+Peugeot,e-3008 97 kWh Long Range,170,96.9,Lithium-ion,,345,145,500,8.7,135,CCS,1200,588,5,FWD,JC - Medium,4542,1895,1641,SUV,https://ev-database.org/car/2005/Peugeot-e-3008-97-kWh-Long-Range
+Peugeot,e-308,170,50.8,Lithium-ion,102,260,124,300,9.8,80,CCS,0,412,5,FWD,C - Medium,4367,1852,1441,Hatchback,https://ev-database.org/car/1744/Peugeot-e-308
+Peugeot,e-308 SW,150,50.8,Lithium-ion,102,260,127,300,10.0,80,CCS,,608,5,FWD,C - Medium,4636,1852,1442,Station/Estate,https://ev-database.org/car/1745/Peugeot-e-308-SW
+Peugeot,e-408 58 kWh,160,58.3,Lithium-ion,,345,129,375,7.2,70,CCS,,471,5,FWD,JD - Large,4687,1859,1478,SUV,https://ev-database.org/car/3066/Peugeot-e-408-58-kWh
+Peugeot,e-5008 73 kWh,170,73.0,Lithium-ion,96,345,150,370,9.7,90,CCS,1000,348,7,FWD,JD - Large,4791,1895,1694,SUV,https://ev-database.org/car/2149/Peugeot-e-5008-73-kWh
+Peugeot,e-5008 73 kWh Dual Motor,170,73.0,Lithium-ion,96,511,203,360,7.0,90,CCS,,348,7,AWD,JD - Large,4791,1895,1694,SUV,https://ev-database.org/car/2150/Peugeot-e-5008-73-kWh-Dual-Motor
+Peugeot,e-5008 97 kWh Long Range,170,96.9,Lithium-ion,,345,152,485,9.6,135,CCS,1000,348,7,FWD,JD - Large,4791,1895,1694,SUV,https://ev-database.org/car/2151/Peugeot-e-5008-97-kWh-Long-Range
+Peugeot,e-Rifter M 50 kWh,132,50.0,Lithium-ion,,270,152,235,11.7,80,CCS,750,775,5,FWD,N - Passenger Van,4403,1921,1818,Small Passenger Van,https://ev-database.org/car/2163/Peugeot-e-Rifter-M-50-kWh
+Peugeot,e-Rifter XL 50 kWh,132,50.0,Lithium-ion,,270,153,230,11.7,80,CCS,750,1050,7,FWD,N - Passenger Van,4755,1921,1837,Small Passenger Van,https://ev-database.org/car/2164/Peugeot-e-Rifter-XL-50-kWh
+Peugeot,e-Traveller L2 50 kWh,130,46.3,Lithium-ion,216,270,217,180,13.3,78,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2256/Peugeot-e-Traveller-L2-50-kWh
+Peugeot,e-Traveller L2 75 kWh,130,68.0,Lithium-ion,324,270,202,260,14.2,79,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2258/Peugeot-e-Traveller-L2-75-kWh
+Peugeot,e-Traveller L3 50 kWh,130,46.3,Lithium-ion,216,270,219,180,13.3,78,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2257/Peugeot-e-Traveller-L3-50-kWh
+Peugeot,e-Traveller L3 75 kWh,130,68.0,Lithium-ion,324,270,204,260,14.2,79,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2259/Peugeot-e-Traveller-L3-75-kWh
+Polestar,2 Long Range Dual Motor (MY26),205,79.0,Lithium-ion,324,740,142,455,4.5,125,CCS,1500,407,5,AWD,D - Large,4606,1859,1479,Liftback Sedan,https://ev-database.org/car/3152/Polestar-2-Long-Range-Dual-Motor
+Polestar,2 Long Range Performance (MY26),205,79.0,Lithium-ion,324,740,142,450,4.2,125,CCS,1500,407,5,AWD,D - Large,4606,1859,1473,Liftback Sedan,https://ev-database.org/car/3153/Polestar-2-Long-Range-Performance
+Polestar,2 Long Range Single Motor (MY26),205,79.0,Lithium-ion,324,490,130,475,6.2,125,CCS,1500,407,5,RWD,D - Large,4606,1859,1479,Liftback Sedan,https://ev-database.org/car/3151/Polestar-2-Long-Range-Single-Motor
+Polestar,2 Standard Range Single Motor (MY26),205,67.0,Lithium-ion,,490,129,405,6.4,110,CCS,1500,407,5,RWD,D - Large,4606,1859,1479,Liftback Sedan,https://ev-database.org/car/3150/Polestar-2-Standard-Range-Single-Motor
+Polestar,3 Long Range Dual motor,210,107.0,Lithium-ion,204,840,183,515,5.0,150,CCS,2200,484,5,AWD,JE - Executive,4900,1968,1614,SUV,https://ev-database.org/car/1758/Polestar-3-Long-Range-Dual-motor
+Polestar,3 Long Range Performance,210,107.0,Lithium-ion,204,910,194,495,4.7,150,CCS,2200,484,5,AWD,JE - Executive,4900,1968,1614,SUV,https://ev-database.org/car/1759/Polestar-3-Long-Range-Performance
+Polestar,3 Long Range Single motor,180,107.0,Lithium-ion,204,490,166,530,7.8,150,CCS,1500,484,5,RWD,JE - Executive,4900,1968,1614,SUV,https://ev-database.org/car/2229/Polestar-3-Long-Range-Single-motor
+Polestar,4 Long Range Dual Motor,200,94.0,Lithium-ion,110,686,165,485,3.8,135,CCS,2000,526,5,AWD,E - Executive,4839,2008,1544,Liftback Sedan,https://ev-database.org/car/1842/Polestar-4-Long-Range-Dual-Motor
+Polestar,4 Long Range Single Motor,180,94.0,Lithium-ion,110,343,157,495,7.4,135,CCS,1500,526,5,RWD,E - Executive,4839,2008,1544,Liftback Sedan,https://ev-database.org/car/1841/Polestar-4-Long-Range-Single-Motor
+Porsche,Macan 4 Electric,220,95.0,Lithium-ion,180,650,184,470,5.2,200,CCS,2000,540,5,AWD,JD - Large,4784,1938,1622,SUV,https://ev-database.org/car/2084/Porsche-Macan-4-Electric
+Porsche,Macan 4S Electric,240,95.0,Lithium-ion,180,820,186,470,4.1,200,CCS,2000,540,5,AWD,JD - Large,4784,1938,1622,SUV,https://ev-database.org/car/2244/Porsche-Macan-4S-Electric
+Porsche,Macan Electric,220,95.0,Lithium-ion,180,563,177,495,5.7,200,CCS,2000,540,5,RWD,JD - Large,4784,1938,1623,SUV,https://ev-database.org/car/2083/Porsche-Macan-Electric
+Porsche,Macan Turbo Electric,260,95.0,Lithium-ion,180,1001,183,460,3.3,200,CCS,2000,480,5,AWD,JD - Large,4784,1938,1621,SUV,https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric
+Porsche,Taycan,230,82.3,Lithium-ion,,410,164,495,4.8,195,CCS,0,407,5,RWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/2098/Porsche-Taycan
+Porsche,Taycan 4,230,82.3,Lithium-ion,,585,172,490,4.6,195,CCS,0,407,5,AWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/3060/Porsche-Taycan-4
+Porsche,Taycan 4 Cross Turismo,220,97.0,Lithium-ion,396,610,188,510,4.7,281,CCS,0,446,5,AWD,F - Luxury,4974,1967,1409,Station/Estate,https://ev-database.org/car/2110/Porsche-Taycan-4-Cross-Turismo
+Porsche,Taycan 4 Plus,230,97.0,Lithium-ion,396,610,175,565,4.6,281,CCS,0,407,5,AWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/3061/Porsche-Taycan-4-Plus
+Porsche,Taycan 4S,250,82.3,Lithium-ion,,695,174,490,3.7,195,CCS,0,407,5,AWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/2100/Porsche-Taycan-4S
+Porsche,Taycan 4S Cross Turismo,240,97.0,Lithium-ion,396,710,188,510,3.8,281,CCS,0,446,5,AWD,F - Luxury,4974,1967,1409,Station/Estate,https://ev-database.org/car/2111/Porsche-Taycan-4S-Cross-Turismo
+Porsche,Taycan 4S Plus,250,97.0,Lithium-ion,396,710,177,565,3.7,281,CCS,0,407,5,AWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/2101/Porsche-Taycan-4S-Plus
+Porsche,Taycan 4S Plus Sport Turismo,250,97.0,Lithium-ion,396,710,186,510,3.7,281,CCS,0,446,5,AWD,F - Luxury,4963,1966,1390,Station/Estate,https://ev-database.org/car/2107/Porsche-Taycan-4S-Plus-Sport-Turismo
+Porsche,Taycan 4S Sport Turismo,250,82.3,Lithium-ion,,695,183,440,3.7,195,CCS,0,446,5,AWD,F - Luxury,4963,1966,1390,Station/Estate,https://ev-database.org/car/2106/Porsche-Taycan-4S-Sport-Turismo
+Porsche,Taycan GTS,250,97.0,Lithium-ion,396,790,176,535,3.3,281,CCS,0,366,5,AWD,F - Luxury,4963,1966,1381,Sedan,https://ev-database.org/car/3062/Porsche-Taycan-GTS
+Porsche,Taycan GTS Sport Turismo,250,97.0,Lithium-ion,396,790,185,505,3.3,281,CCS,0,405,5,AWD,F - Luxury,4963,1966,1392,Station/Estate,https://ev-database.org/car/3063/Porsche-Taycan-GTS-Sport-Turismo
+Porsche,Taycan Plus,230,97.0,Lithium-ion,396,420,168,575,4.8,281,CCS,0,407,5,RWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/2099/Porsche-Taycan-Plus
+Porsche,Taycan Plus Sport Turismo,230,97.0,Lithium-ion,396,420,176,530,4.8,281,CCS,0,446,5,RWD,F - Luxury,4963,1966,1390,Station/Estate,https://ev-database.org/car/2105/Porsche-Taycan-Plus-Sport-Turismo
+Porsche,Taycan Sport Turismo,230,82.3,Lithium-ion,,410,173,460,4.8,195,CCS,0,446,5,RWD,F - Luxury,4963,1966,1390,Station/Estate,https://ev-database.org/car/2104/Porsche-Taycan-Sport-Turismo
+Porsche,Taycan Turbo,260,97.0,Lithium-ion,396,940,174,535,2.7,281,CCS,0,366,5,AWD,F - Luxury,4963,1966,1379,Sedan,https://ev-database.org/car/2102/Porsche-Taycan-Turbo
+Porsche,Taycan Turbo Cross Turismo,250,97.0,Lithium-ion,396,940,188,495,2.8,281,CCS,0,405,5,AWD,F - Luxury,4974,1967,1412,Station/Estate,https://ev-database.org/car/2112/Porsche-Taycan-Turbo-Cross-Turismo
+Porsche,Taycan Turbo GT,290,97.0,Lithium-ion,396,1340,184,475,2.3,281,CCS,0,326,5,AWD,F - Luxury,4968,1966,1378,Sedan,https://ev-database.org/car/2144/Porsche-Taycan-Turbo-GT
+Porsche,Taycan Turbo GT Weissach,305,97.0,Lithium-ion,396,1340,180,475,2.2,281,CCS,0,367,2,AWD,F - Luxury,4968,1966,1378,Sedan,https://ev-database.org/car/2145/Porsche-Taycan-Turbo-GT-Weissach
+Porsche,Taycan Turbo S,260,97.0,Lithium-ion,396,1110,174,525,2.4,281,CCS,0,366,5,AWD,F - Luxury,4963,1966,1378,Sedan,https://ev-database.org/car/2103/Porsche-Taycan-Turbo-S
+Porsche,Taycan Turbo S Cross Turismo,250,97.0,Lithium-ion,396,1110,188,485,2.5,281,CCS,0,405,5,AWD,F - Luxury,4974,1967,1407,Station/Estate,https://ev-database.org/car/2113/Porsche-Taycan-Turbo-S-Cross-Turismo
+Porsche,Taycan Turbo S Sport Turismo,260,97.0,Lithium-ion,396,1110,183,505,2.4,281,CCS,0,405,5,AWD,F - Luxury,4963,1966,1388,Station/Estate,https://ev-database.org/car/2109/Porsche-Taycan-Turbo-S-Sport-Turismo
+Porsche,Taycan Turbo Sport Turismo,260,97.0,Lithium-ion,396,940,184,505,2.7,281,CCS,0,405,5,AWD,F - Luxury,4963,1966,1392,Station/Estate,https://ev-database.org/car/2108/Porsche-Taycan-Turbo-Sport-Turismo
+Renault,4 E-Tech 40kWh 120hp,150,40.0,Lithium-ion,93,225,124,245,9.2,55,CCS,750,420,5,FWD,JB - Compact,4143,1796,1552,SUV,https://ev-database.org/car/3126/Renault-4-E-Tech-40kWh-120hp
+Renault,4 E-Tech 52kWh 150hp,150,52.0,Lithium-ion,184,245,127,315,8.2,70,CCS,750,420,5,FWD,JB - Compact,4143,1796,1552,SUV,https://ev-database.org/car/3127/Renault-4-E-Tech-52kWh-150hp
+Renault,5 E-Tech 40kWh 120hp,150,40.0,Lithium-ion,93,225,132,250,9.0,55,CCS,500,326,5,FWD,B - Compact,3922,1808,1489,Hatchback,https://ev-database.org/car/2134/Renault-5-E-Tech-40kWh-120hp
+Renault,5 E-Tech 40kWh 95hp,130,40.0,Lithium-ion,93,215,129,255,12.0,,,500,326,5,FWD,B - Compact,3922,1808,1489,Hatchback,https://ev-database.org/car/2133/Renault-5-E-Tech-40kWh-95hp
+Renault,5 E-Tech 52kWh 150hp,150,52.0,Lithium-ion,184,245,129,320,8.0,70,CCS,500,326,5,FWD,B - Compact,3922,1808,1489,Hatchback,https://ev-database.org/car/2135/Renault-5-E-Tech-52kWh-150hp
+Renault,Kangoo E-Tech Electric,135,45.0,Lithium-ion,,245,158,225,12.6,50,CCS,1500,950,5,FWD,N - Passenger Van,4486,1860,1838,Small Passenger Van,https://ev-database.org/car/1802/Renault-Kangoo-E-Tech-Electric
+Renault,Kangoo Grand E-Tech Electric,130,45.0,Lithium-ion,,245,170,220,13.3,50,CCS,1500,500,7,FWD,N - Passenger Van,4911,1860,1815,Small Passenger Van,https://ev-database.org/car/2043/Renault-Kangoo-Grand-E-Tech-Electric
+Renault,Megane E-Tech EV60 130hp (TU2025),150,60.0,Lithium-ion,288,250,125,380,10.5,88,CCS,500,440,5,FWD,C - Medium,4200,1860,1505,Hatchback,https://ev-database.org/car/3131/Renault-Megane-E-Tech-EV60-130hp
+Renault,Megane E-Tech EV60 220hp (TU2025),160,60.0,Lithium-ion,288,300,133,380,7.4,88,CCS,900,440,5,FWD,C - Medium,4200,1860,1505,Hatchback,https://ev-database.org/car/3132/Renault-Megane-E-Tech-EV60-220hp
+Renault,Scenic E-Tech EV60 170hp,150,60.0,Lithium-ion,192,280,144,340,8.6,75,CCS,1100,545,5,FWD,JC - Medium,4470,1864,1571,SUV,https://ev-database.org/car/2068/Renault-Scenic-E-Tech-EV60-170hp
+Renault,Scenic E-Tech EV87 220hp,170,87.0,Lithium-ion,288,300,143,480,7.9,95,CCS,1100,545,5,FWD,JC - Medium,4470,1864,1571,SUV,https://ev-database.org/car/2069/Renault-Scenic-E-Tech-EV87-220hp
+Rolls-Royce,Spectre,250,102.0,Lithium-ion,,900,192,465,4.5,126,CCS,,380,4,AWD,I - Luxury,5453,2080,1559,Coupe,https://ev-database.org/car/1765/Rolls-Royce-Spectre
+Skoda,Elroq 50,160,52.0,Lithium-ion,192,310,149,310,9.0,90,CCS,1000,470,5,RWD,JC - Medium,4488,1884,1625,SUV,https://ev-database.org/car/3031/Skoda-Elroq-50
+Skoda,Elroq 60,160,59.0,Lithium-ion,216,310,149,350,8.5,110,CCS,1000,470,5,RWD,JC - Medium,4488,1884,1625,SUV,https://ev-database.org/car/3032/Skoda-Elroq-60
+Skoda,Elroq 85,180,77.0,Lithium-ion,288,545,145,450,6.6,120,CCS,1000,470,5,RWD,JC - Medium,4488,1884,1625,SUV,https://ev-database.org/car/3033/Skoda-Elroq-85
+Skoda,Elroq RS,180,79.0,Lithium-ion,288,679,151,450,5.4,135,CCS,1200,470,5,AWD,JC - Medium,4488,1884,1608,SUV,https://ev-database.org/car/3183/Skoda-Elroq-RS
+Skoda,Enyaq 60,160,59.0,Lithium-ion,216,310,145,360,8.1,110,CCS,1000,585,5,RWD,JC - Medium,4658,1879,1622,SUV,https://ev-database.org/car/3096/Skoda-Enyaq-60
+Skoda,Enyaq 85,180,77.0,Lithium-ion,288,545,141,455,6.7,120,CCS,1000,585,5,RWD,JC - Medium,4658,1879,1622,SUV,https://ev-database.org/car/3097/Skoda-Enyaq-85
+Skoda,Enyaq 85x,180,77.0,Lithium-ion,288,679,150,450,6.7,120,CCS,1200,585,5,AWD,JC - Medium,4658,1879,1620,SUV,https://ev-database.org/car/3098/Skoda-Enyaq-85x
+Skoda,Enyaq Coupe 60,160,59.0,Lithium-ion,216,310,141,370,8.1,110,CCS,1000,570,5,RWD,JC - Medium,4658,1879,1623,SUV,https://ev-database.org/car/3099/Skoda-Enyaq-Coupe-60
+Skoda,Enyaq Coupe 85,180,77.0,Lithium-ion,288,545,138,470,6.7,120,CCS,1000,570,5,RWD,JC - Medium,4658,1879,1623,SUV,https://ev-database.org/car/3100/Skoda-Enyaq-Coupe-85
+Skoda,Enyaq Coupe 85x,180,77.0,Lithium-ion,288,679,146,460,6.7,120,CCS,1200,570,5,AWD,JC - Medium,4658,1879,1621,SUV,https://ev-database.org/car/3101/Skoda-Enyaq-Coupe-85x
+Skoda,Enyaq Coupe RS,180,79.0,Lithium-ion,288,679,143,470,5.4,135,CCS,1200,570,5,AWD,JC - Medium,4660,1879,1608,SUV,https://ev-database.org/car/3185/Skoda-Enyaq-Coupe-RS
+Skoda,Enyaq RS,180,79.0,Lithium-ion,288,679,147,460,5.4,135,CCS,1200,585,5,AWD,JC - Medium,4660,1879,1607,SUV,https://ev-database.org/car/3184/Skoda-Enyaq-RS
+Skywell,BE11 Long Range,150,81.0,Lithium-ion,,320,166,390,9.6,50,CCS,,467,5,FWD,JD - Large,4720,1908,1696,SUV,https://ev-database.org/car/3065/Skywell-BE11-Long-Range
+Skywell,BE11 Standard Range,150,68.0,Lithium-ion,,320,149,330,9.6,50,CCS,,467,5,FWD,JD - Large,4720,1908,1696,SUV,https://ev-database.org/car/3064/Skywell-BE11-Standard-Range
+Smart,#1 Brabus,180,62.0,Lithium-ion,,584,155,325,3.9,100,CCS,1600,313,5,AWD,JB - Compact,4300,1822,1636,SUV,https://ev-database.org/car/1748/Smart-1-Brabus
+Smart,#1 Premium,180,62.0,Lithium-ion,,343,141,335,6.7,100,CCS,1600,323,5,RWD,JB - Compact,4270,1822,1636,SUV,https://ev-database.org/car/2053/Smart-1-Premium
+Smart,#1 Pro,180,47.0,Lithium-ion,,343,152,250,6.7,65,CCS,0,323,5,RWD,JB - Compact,4270,1822,1636,SUV,https://ev-database.org/car/2041/Smart-1-Pro
+Smart,#1 Pro+,180,62.0,Lithium-ion,,343,148,335,6.7,100,CCS,1600,323,5,RWD,JB - Compact,4270,1822,1636,SUV,https://ev-database.org/car/1667/Smart-1-Proplus
+Smart,#1 Pulse,180,62.0,Lithium-ion,,584,155,325,4.5,100,CCS,1600,313,5,AWD,JB - Compact,4300,1822,1636,SUV,https://ev-database.org/car/1920/Smart-1-Pulse
+Smart,#1 Pure,180,47.0,Lithium-ion,,343,152,250,6.7,65,CCS,0,323,5,RWD,JB - Compact,4270,1822,1636,SUV,https://ev-database.org/car/2217/Smart-1-Pure
+Smart,#1 Pure+,180,62.0,Lithium-ion,,343,148,335,6.7,100,CCS,1600,323,5,RWD,JB - Compact,4270,1822,1636,SUV,https://ev-database.org/car/2218/Smart-1-Pureplus
+Smart,#3 Brabus,180,62.0,Lithium-ion,,543,149,335,3.7,100,CCS,1600,370,5,AWD,JB - Compact,4400,1844,1556,SUV,https://ev-database.org/car/2000/Smart-3-Brabus
+Smart,#3 Premium,180,62.0,Lithium-ion,,343,136,355,5.8,110,CCS,1600,370,5,RWD,JB - Compact,4400,1844,1556,SUV,https://ev-database.org/car/2054/Smart-3-Premium
+Smart,#3 Pro,180,47.0,Lithium-ion,,343,145,265,5.9,65,CCS,0,370,5,RWD,JB - Compact,4400,1844,1556,SUV,https://ev-database.org/car/2052/Smart-3-Pro
+Smart,#3 Pro+,180,62.0,Lithium-ion,,343,143,355,5.8,110,CCS,1600,370,5,RWD,JB - Compact,4400,1844,1556,SUV,https://ev-database.org/car/1999/Smart-3-Proplus
+Smart,#5 Brabus,210,94.0,Lithium-ion,,710,174,450,3.8,230,CCS,1600,630,5,AWD,JD - Large,4695,1920,1705,SUV,https://ev-database.org/car/3179/Smart-5-Brabus
+Smart,#5 Premium,200,94.0,Lithium-ion,,373,159,465,6.5,230,CCS,1600,630,5,RWD,JD - Large,4695,1920,1705,SUV,https://ev-database.org/car/3143/Smart-5-Premium
+Smart,#5 Pro,200,74.4,Lithium-ion,,373,160,370,6.9,110,CCS,1600,630,5,RWD,JD - Large,4695,1920,1705,SUV,https://ev-database.org/car/3141/Smart-5-Pro
+Smart,#5 Pro+,200,94.0,Lithium-ion,,373,159,465,6.5,230,CCS,1600,630,5,RWD,JD - Large,4695,1920,1705,SUV,https://ev-database.org/car/3142/Smart-5-Proplus
+Smart,#5 Pulse,200,94.0,Lithium-ion,,643,174,455,4.9,230,CCS,1600,630,5,AWD,JD - Large,4695,1920,1705,SUV,https://ev-database.org/car/3144/Smart-5-Pulse
+Smart,#5 Summit Edition,200,94.0,Lithium-ion,,643,174,455,4.9,230,CCS,1600,630,5,AWD,JD - Large,4695,1920,1705,SUV,https://ev-database.org/car/3145/Smart-5-Summit-Edition
+Subaru,Solterra AWD,160,64.0,Lithium-ion,96,336,154,320,6.9,100,CCS,750,441,5,AWD,JC - Medium,4690,1860,1650,SUV,https://ev-database.org/car/1567/Subaru-Solterra-AWD
+Tesla,Model 3 Long Range AWD (Highland),201,75.0,Lithium-ion,4416,493,119,525,4.4,124,CCS,1000,594,5,AWD,D - Large,4720,1849,1441,Sedan,https://ev-database.org/car/1992/Tesla-Model-3-Long-Range-AWD
+Tesla,Model 3 Long Range RWD (Highland),201,75.0,Lithium-ion,4416,450,117,545,5.2,124,CCS,1000,594,5,RWD,D - Large,4720,1849,1441,Sedan,https://ev-database.org/car/3034/Tesla-Model-3-Long-Range-RWD
+Tesla,Model 3 Performance (Highland),262,75.0,Lithium-ion,4416,741,142,490,3.2,124,CCS,0,594,5,AWD,D - Large,4720,1849,1431,Sedan,https://ev-database.org/car/2188/Tesla-Model-3-Performance
+Tesla,Model 3 RWD (Highland CATL LFP64),201,60.5,Lithium-ion,,420,116,445,6.1,110,CCS,1000,594,5,RWD,D - Large,4720,1849,1441,Sedan,https://ev-database.org/car/3186/Tesla-Model-3-RWD
+Tesla,Model S Dual Motor,250,95.0,Lithium-ion,7920,,150,575,3.2,140,CCS,1600,709,5,AWD,F - Luxury,5021,1987,1431,Liftback Sedan,https://ev-database.org/car/1404/Tesla-Model-S-Dual-Motor
+Tesla,Model S Plaid,282,95.0,Lithium-ion,7920,,158,560,2.3,140,CCS,1600,709,5,AWD,F - Luxury,5021,1987,1431,Liftback Sedan,https://ev-database.org/car/1405/Tesla-Model-S-Plaid
+Tesla,Model X Dual Motor,250,95.0,Lithium-ion,7920,,165,485,3.9,140,CCS,2250,425,7,AWD,JF - Luxury,5057,1999,1680,SUV,https://ev-database.org/car/1407/Tesla-Model-X-Dual-Motor
+Tesla,Model X Plaid,262,95.0,Lithium-ion,7920,,180,465,2.7,140,CCS,2250,425,7,AWD,JF - Luxury,5057,1999,1680,SUV,https://ev-database.org/car/1408/Tesla-Model-X-Plaid
+Tesla,Model Y Long Range AWD (Juniper),201,75.0,Lithium-ion,4416,493,132,455,4.8,124,CCS,1600,854,5,AWD,JD - Large,4790,1982,1624,SUV,https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD
+Tesla,Model Y Long Range RWD (Juniper),201,75.0,Lithium-ion,4416,450,121,470,5.6,124,CCS,1600,854,5,RWD,JD - Large,4790,1982,1624,SUV,https://ev-database.org/car/3120/Tesla-Model-Y-Long-Range-RWD
+Tesla,Model Y RWD (Juniper),201,60.5,Lithium-ion,,420,121,375,5.9,110,CCS,1600,854,5,RWD,JD - Large,4790,1982,1624,SUV,https://ev-database.org/car/3103/Tesla-Model-Y-RWD
+Toyota,PROACE Verso L 75 kWh,130,68.0,Lithium-ion,324,260,204,260,13.3,79,CCS,1000,989,9,FWD,N - Passenger Van,5333,1920,1890,Small Passenger Van,https://ev-database.org/car/2267/Toyota-PROACE-Verso-L-75-kWh
+Toyota,PROACE Verso M 50 kWh,130,46.3,Lithium-ion,216,260,217,180,12.1,78,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2264/Toyota-PROACE-Verso-M-50-kWh
+Toyota,PROACE Verso M 75 kWh,130,68.0,Lithium-ion,324,260,202,260,13.3,79,CCS,1000,603,9,FWD,N - Passenger Van,4983,1920,1890,Small Passenger Van,https://ev-database.org/car/2266/Toyota-PROACE-Verso-M-75-kWh
+Toyota,Proace City Verso Electric L1 50 kWh,132,50.0,Lithium-ion,,260,149,235,11.7,80,CCS,750,775,5,FWD,N - Passenger Van,4403,1921,1803,Small Passenger Van,https://ev-database.org/car/2165/Toyota-Proace-City-Verso-Electric-L1-50-kWh
+Toyota,Proace City Verso Electric L2 50 kWh,132,50.0,Lithium-ion,,260,149,230,11.7,80,CCS,750,1050,7,FWD,N - Passenger Van,4753,1921,1814,Small Passenger Van,https://ev-database.org/car/2166/Toyota-Proace-City-Verso-Electric-L2-50-kWh
+Toyota,bZ4X AWD,160,64.0,Lithium-ion,96,336,154,345,6.9,100,CCS,750,452,5,AWD,JC - Medium,4690,1860,1600,SUV,https://ev-database.org/car/1565/Toyota-bZ4X-AWD
+Toyota,bZ4X FWD,160,64.0,Lithium-ion,96,265,145,350,7.5,100,CCS,750,452,5,FWD,JC - Medium,4690,1860,1600,SUV,https://ev-database.org/car/1564/Toyota-bZ4X-FWD
+VinFast,VF 8 Eco Extended Range,200,87.7,Lithium-ion,,500,186,405,5.9,120,CCS,1800,376,5,AWD,JD - Large,4750,1934,1667,SUV,https://ev-database.org/car/1807/VinFast-VF-8-Eco-Extended-Range
+VinFast,VF 8 Plus Extended Range,200,87.7,Lithium-ion,,620,196,400,5.5,120,CCS,1800,376,5,AWD,JD - Large,4750,1934,1667,SUV,https://ev-database.org/car/1809/VinFast-VF-8-Plus-Extended-Range
+Volkswagen,ID. Buzz LWB GTX,160,86.0,Lithium-ion,312,560,182,350,6.5,145,CCS,1600,1340,7,AWD,N - Passenger Van,4960,1985,1927,Small Passenger Van,https://ev-database.org/car/2157/Volkswagen-ID-Buzz-LWB-GTX-
+Volkswagen,ID. Buzz LWB Pro,160,86.0,Lithium-ion,312,560,190,370,7.9,145,CCS,1000,1340,7,RWD,N - Passenger Van,4962,1985,1924,Small Passenger Van,https://ev-database.org/car/2154/Volkswagen-ID-Buzz-LWB-Pro
+Volkswagen,ID. Buzz NWB GTX,160,79.0,Lithium-ion,288,560,194,330,6.5,135,CCS,1800,1121,6,AWD,N - Passenger Van,4712,1985,1925,Small Passenger Van,https://ev-database.org/car/2156/Volkswagen-ID-Buzz-NWB-GTX
+Volkswagen,ID. Buzz NWB Pro,160,79.0,Lithium-ion,288,560,187,360,7.6,135,CCS,1200,1121,6,RWD,N - Passenger Van,4712,1985,1927,Small Passenger Van,https://ev-database.org/car/2232/Volkswagen-ID-Buzz-NWB-Pro
+Volkswagen,ID. Buzz NWB Pure,145,59.0,Lithium-ion,216,310,178,275,10.7,110,CCS,1000,1121,6,RWD,N - Passenger Van,4712,1985,1927,Small Passenger Van,https://ev-database.org/car/3119/Volkswagen-ID-Buzz-NWB-Pure
+Volkswagen,ID.3 GTX,180,79.0,Lithium-ion,288,545,131,470,5.9,135,CCS,0,385,5,RWD,C - Medium,4322,1809,1538,Hatchback,https://ev-database.org/car/2152/Volkswagen-ID3-GTX
+Volkswagen,ID.3 GTX Performance,200,79.0,Lithium-ion,288,545,131,465,5.6,135,CCS,0,385,5,RWD,C - Medium,4322,1809,1538,Hatchback,https://ev-database.org/car/2153/Volkswagen-ID3-GTX-Performance
+Volkswagen,ID.3 Pro,160,59.0,Lithium-ion,216,310,136,365,7.6,110,CCS,0,385,5,RWD,C - Medium,4264,1809,1564,Hatchback,https://ev-database.org/car/2213/Volkswagen-ID3-Pro
+Volkswagen,ID.3 Pro S,160,77.0,Lithium-ion,288,310,138,465,7.1,120,CCS,0,385,5,RWD,C - Medium,4264,1809,1564,Hatchback,https://ev-database.org/car/2210/Volkswagen-ID3-Pro-S
+Volkswagen,ID.3 Pure,160,52.0,Lithium-ion,192,310,134,325,8.2,90,CCS,0,385,5,RWD,C - Medium,4264,1809,1564,Hatchback,https://ev-database.org/car/2214/Volkswagen-ID3-Pure
+Volkswagen,ID.4 GTX,180,77.0,Lithium-ion,288,679,152,420,5.4,120,CCS,1200,543,5,AWD,JC - Medium,4584,1852,1631,SUV,https://ev-database.org/car/2030/Volkswagen-ID4-GTX
+Volkswagen,ID.4 Pro,180,77.0,Lithium-ion,288,545,149,445,6.7,120,CCS,1000,543,5,RWD,JC - Medium,4584,1852,1631,SUV,https://ev-database.org/car/2028/Volkswagen-ID4-Pro
+Volkswagen,ID.4 Pro 4MOTION,180,77.0,Lithium-ion,288,679,155,435,6.6,120,CCS,1200,543,5,AWD,JC - Medium,4584,1852,1631,SUV,https://ev-database.org/car/2029/Volkswagen-ID4-Pro-4MOTION
+Volkswagen,ID.4 Pure,160,52.0,Lithium-ion,192,310,143,285,9.0,87,CCS,1000,543,5,RWD,JC - Medium,4584,1852,1640,SUV,https://ev-database.org/car/2027/Volkswagen-ID4-Pure
+Volkswagen,ID.5 GTX,180,77.0,Lithium-ion,288,679,144,430,5.5,120,CCS,1200,549,5,AWD,JC - Medium,4599,1852,1615,SUV,https://ev-database.org/car/2033/Volkswagen-ID5-GTX
+Volkswagen,ID.5 Pro,180,77.0,Lithium-ion,288,545,138,460,6.7,120,CCS,1000,549,5,RWD,JC - Medium,4599,1852,1615,SUV,https://ev-database.org/car/2031/Volkswagen-ID5-Pro
+Volkswagen,ID.5 Pure,160,52.0,Lithium-ion,288,310,142,320,8.9,87,CCS,1000,549,5,RWD,JC - Medium,4599,1852,1615,SUV,https://ev-database.org/car/3080/Volkswagen-ID5-Pure
+Volkswagen,ID.7 GTX,180,86.0,Lithium-ion,312,560,145,500,5.4,145,CCS,1200,532,5,AWD,E - Executive,4961,1862,1536,Liftback Sedan,https://ev-database.org/car/2216/Volkswagen-ID7-GTX
+Volkswagen,ID.7 Pro,180,77.0,Lithium-ion,288,550,132,475,6.5,125,CCS,1000,532,5,RWD,E - Executive,4961,1862,1536,Liftback Sedan,https://ev-database.org/car/1839/Volkswagen-ID7-Pro
+Volkswagen,ID.7 Pro S,180,86.0,Lithium-ion,312,550,133,525,6.6,145,CCS,1000,532,5,RWD,E - Executive,4961,1862,1536,Liftback Sedan,https://ev-database.org/car/1840/Volkswagen-ID7-Pro-S
+Volkswagen,ID.7 Tourer GTX,180,86.0,Lithium-ion,312,560,147,500,5.5,145,CCS,1200,605,5,AWD,E - Executive,4961,1862,1536,Station/Estate,https://ev-database.org/car/2158/Volkswagen-ID7-Tourer-GTX
+Volkswagen,ID.7 Tourer Pro,180,77.0,Lithium-ion,288,550,146,470,6.6,125,CCS,1000,605,5,RWD,E - Executive,4961,1862,1536,Station/Estate,https://ev-database.org/car/2118/Volkswagen-ID7-Tourer-Pro
+Volkswagen,ID.7 Tourer Pro S,180,86.0,Lithium-ion,312,550,125,520,6.7,145,CCS,1000,605,5,RWD,E - Executive,4961,1862,1536,Station/Estate,https://ev-database.org/car/2119/Volkswagen-ID7-Tourer-Pro-S
+Volvo,EC40 Single Motor (MY26),180,67.0,Lithium-ion,,420,151,360,7.3,110,CCS,1500,404,5,RWD,JC - Medium,4440,1873,1596,SUV,https://ev-database.org/car/3154/Volvo-EC40-Single-Motor
+Volvo,EC40 Single Motor ER (MY26),180,79.0,Lithium-ion,324,420,146,420,7.3,125,CCS,1500,404,5,RWD,JC - Medium,4440,1873,1596,SUV,https://ev-database.org/car/3155/Volvo-EC40-Single-Motor-ER
+Volvo,EC40 Twin Motor (MY26),180,79.0,Lithium-ion,324,670,155,400,4.8,125,CCS,1800,404,5,AWD,JC - Medium,4440,1873,1596,SUV,https://ev-database.org/car/3156/Volvo-EC40-Twin-Motor
+Volvo,EC40 Twin Motor Performance (MY26),180,79.0,Lithium-ion,324,670,155,400,4.6,125,CCS,1800,404,5,AWD,JC - Medium,4440,1873,1596,SUV,https://ev-database.org/car/3157/Volvo-EC40-Twin-Motor-Performance
+Volvo,ES90 Single Motor (MY26),180,88.0,Lithium-ion,,480,135,485,6.9,190,CCS,1600,446,5,RWD,F - Luxury,5000,1942,1546,Liftback Sedan,https://ev-database.org/car/3128/Volvo-ES90-Single-Motor
+Volvo,ES90 Twin Motor (MY26),180,102.0,Lithium-ion,,670,146,530,5.5,225,CCS,2000,446,5,AWD,F - Luxury,5000,1942,1546,Liftback Sedan,https://ev-database.org/car/3129/Volvo-ES90-Twin-Motor
+Volvo,ES90 Twin Motor Performance (MY26),180,102.0,Lithium-ion,,870,146,530,4.0,225,CCS,2000,446,5,AWD,F - Luxury,5000,1942,1546,Liftback Sedan,https://ev-database.org/car/3130/Volvo-ES90-Twin-Motor-Performance
+Volvo,EX30 Cross Country (MY26),180,65.0,Lithium-ion,,543,152,330,3.7,114,CCS,1600,318,5,AWD,JB - Compact,4233,1837,1573,SUV,https://ev-database.org/car/3118/Volvo-EX30-Cross-Country
+Volvo,EX30 Single Motor (MY24-26),180,49.0,Lithium-ion,,343,147,275,5.7,80,CCS,1000,318,5,RWD,JB - Compact,4233,1837,1549,SUV,https://ev-database.org/car/1909/Volvo-EX30-Single-Motor
+Volvo,EX30 Single Motor ER (MY24-26),180,65.0,Lithium-ion,,343,138,365,5.3,113,CCS,1600,318,5,RWD,JB - Compact,4233,1837,1549,SUV,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER
+Volvo,EX30 Twin Motor Performance (MY24-26),180,65.0,Lithium-ion,,543,145,340,3.6,113,CCS,1600,318,5,AWD,JB - Compact,4233,1837,1549,SUV,https://ev-database.org/car/1911/Volvo-EX30-Twin-Motor-Performance
+Volvo,EX40 Single Motor (MY26),180,67.0,Lithium-ion,,420,154,345,7.3,110,CCS,1500,410,5,RWD,JC - Medium,4440,1863,1652,SUV,https://ev-database.org/car/3158/Volvo-EX40-Single-Motor
+Volvo,EX40 Single Motor ER (MY26),180,79.0,Lithium-ion,324,420,152,400,7.3,125,CCS,1500,410,5,RWD,JC - Medium,4440,1863,1652,SUV,https://ev-database.org/car/3159/Volvo-EX40-Single-Motor-ER
+Volvo,EX40 Twin Motor (MY26),180,79.0,Lithium-ion,324,670,163,385,4.8,125,CCS,1800,410,5,AWD,JC - Medium,4440,1863,1652,SUV,https://ev-database.org/car/3160/Volvo-EX40-Twin-Motor
+Volvo,EX40 Twin Motor Performance (MY26),180,79.0,Lithium-ion,324,670,163,385,4.6,125,CCS,1800,410,5,AWD,JC - Medium,4440,1863,1652,SUV,https://ev-database.org/car/3161/Volvo-EX40-Twin-Motor-Performance
+Volvo,EX90 Single Motor (MY24-26),180,100.0,Lithium-ion,192,490,182,460,8.4,140,CCS,1200,310,7,RWD,JF - Luxury,5037,1964,1744,SUV,https://ev-database.org/car/1950/Volvo-EX90-Single-Motor
+Volvo,EX90 Twin Motor (MY24-26),180,107.0,Lithium-ion,204,770,188,470,5.9,150,CCS,2200,310,7,AWD,JF - Luxury,5037,1964,1744,SUV,https://ev-database.org/car/1775/Volvo-EX90-Twin-Motor
+Volvo,EX90 Twin Motor Performance (MY24-26),180,107.0,Lithium-ion,204,910,188,455,4.9,150,CCS,2200,310,7,AWD,JF - Luxury,5037,1964,1744,SUV,https://ev-database.org/car/1776/Volvo-EX90-Twin-Motor-Performance
+Voyah,Free 106 kWh,200,100.0,Lithium-ion,,720,200,480,4.4,80,CCS,2000,550,5,AWD,JE - Executive,4905,1950,1645,SUV,https://ev-database.org/car/2049/Voyah-Free-106-kWh
+XPENG,G6 AWD Performance,200,87.5,Lithium-ion,,660,159,475,4.1,180,CCS,1500,571,5,AWD,JD - Large,4753,1920,1650,SUV,https://ev-database.org/car/2183/XPENG-G6-AWD-Performance
+XPENG,G6 RWD Long Range,200,87.5,Lithium-ion,,440,154,480,6.7,180,CCS,1500,571,5,RWD,JD - Large,4753,1920,1650,SUV,https://ev-database.org/car/2182/XPENG-G6-RWD-Long-Range
+XPENG,G6 RWD Standard Range,200,66.0,Lithium-ion,,440,152,370,6.9,140,CCS,1500,571,5,RWD,JD - Large,4753,1920,1650,SUV,https://ev-database.org/car/2181/XPENG-G6-RWD-Standard-Range
+XPENG,G9 AWD Performance,200,93.1,Lithium-ion,,717,179,465,3.9,224,CCS,1500,660,5,AWD,JE - Executive,4891,1937,1670,SUV,https://ev-database.org/car/1826/XPENG-G9-AWD-Performance
+XPENG,G9 RWD Long Range,200,93.1,Lithium-ion,,430,163,480,6.4,224,CCS,1500,660,5,RWD,JE - Executive,4891,1937,1670,SUV,https://ev-database.org/car/1825/XPENG-G9-RWD-Long-Range
+XPENG,G9 RWD Standard Range,200,75.8,Lithium-ion,,430,165,395,6.4,170,CCS,1500,660,5,RWD,JE - Executive,4891,1937,1680,SUV,https://ev-database.org/car/1824/XPENG-G9-RWD-Standard-Range
+XPENG,P7 AWD Performance,200,82.7,Lithium-ion,,757,164,460,4.1,138,CCS,0,440,5,AWD,E - Executive,4888,1896,1450,Sedan,https://ev-database.org/car/1822/XPENG-P7-AWD-Performance
+XPENG,P7 RWD Long Range,200,82.7,Lithium-ion,,440,144,495,6.7,138,CCS,0,440,5,RWD,E - Executive,4888,1896,1450,Sedan,https://ev-database.org/car/1821/XPENG-P7-RWD-Long-Range
+XPENG,P7 Wing Edition,200,82.7,Lithium-ion,,757,164,455,4.1,138,CCS,0,440,5,AWD,E - Executive,4888,1896,1450,Sedan,https://ev-database.org/car/1823/XPENG-P7-Wing-Edition
+Zeekr,001 Long Range RWD,200,94.0,Lithium-ion,110,343,152,505,7.2,135,CCS,1500,539,5,RWD,E - Executive,4955,1999,1560,Liftback Sedan,https://ev-database.org/car/1933/Zeekr-001-Long-Range-RWD
+Zeekr,001 Performance AWD,200,94.0,Lithium-ion,110,686,159,480,3.8,135,CCS,2000,539,5,AWD,E - Executive,4955,1999,1560,Liftback Sedan,https://ev-database.org/car/1934/Zeekr-001-Performance-AWD
+Zeekr,001 Privilege AWD,200,94.0,Lithium-ion,110,686,162,480,3.8,135,CCS,2000,539,5,AWD,E - Executive,4955,1999,1548,Liftback Sedan,https://ev-database.org/car/1935/Zeekr-001-Privilege-AWD
+Zeekr,7X Long Range RWD,210,94.0,Lithium-ion,,440,153,475,6.0,260,CCS,2000,539,5,RWD,JD - Large,4787,1930,1650,SUV,https://ev-database.org/car/3082/Zeekr-7X-Long-Range-RWD
+Zeekr,7X Performance AWD,210,94.0,Lithium-ion,,710,173,450,3.8,260,CCS,2000,539,5,AWD,JD - Large,4787,1930,1650,SUV,https://ev-database.org/car/3083/Zeekr-7X-Performance-AWD
+Zeekr,7X Premium RWD,210,71.0,Lithium-ion,,440,148,365,6.0,240,CCS,2000,539,5,RWD,JD - Large,4787,1930,1650,SUV,https://ev-database.org/car/3081/Zeekr-7X-Premium-RWD
+Zeekr,X Core RWD (MY25),190,49.0,Lithium-ion,,343,148,265,5.9,70,CCS,1600,362,5,RWD,JB - Compact,4432,1836,1566,SUV,https://ev-database.org/car/3197/Zeekr-X-Core-RWD
+Zeekr,X Long Range RWD (MY25),190,65.0,Lithium-ion,,343,146,360,5.6,114,CCS,1600,362,5,RWD,JB - Compact,4432,1836,1566,SUV,https://ev-database.org/car/3198/Zeekr-X-Long-Range-RWD
+Zeekr,X Privilege AWD (MY25),190,65.0,Lithium-ion,,543,153,350,3.8,114,CCS,1600,362,5,AWD,JB - Compact,4432,1836,1566,SUV,https://ev-database.org/car/3199/Zeekr-X-Privilege-AWD
+firefly,,150,41.2,Lithium-ion,112,200,125,250,8.1,65,CCS,0,404,5,RWD,B - Compact,4003,1885,1557,Hatchback,https://ev-database.org/car/3178/firefly-firefly
