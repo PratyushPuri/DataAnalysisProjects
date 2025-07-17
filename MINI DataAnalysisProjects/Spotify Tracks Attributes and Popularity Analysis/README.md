@@ -1,5 +1,10 @@
 # 🎵 Spotify Tracks Analysis & Visualization
 
+<div align="center">
+  
+![Lung Cancer](../../assets/spotify.jpg)
+
+</div>
 
 
 <div align="center">
