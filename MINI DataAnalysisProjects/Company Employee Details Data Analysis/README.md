@@ -1,6 +1,10 @@
 # 🏢 Employee Data Analysis Project
 
+<div align="center">
+  
+![Employee](../../assets/employee.jpg)
 
+</div>
 
 
 <div align="center">
