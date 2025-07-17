@@ -117,15 +117,9 @@ The dataset used in this analysis is sourced from Kaggle and has been cleaned an
 
 To run this notebook locally:
 
-1. **Clone the repository**:
-```git
-git clone https://github.com/yourusername/zomato-restaurant-data-analysis.git
-```
+1. **Clone the repository**
 
-2. **Navigate to the directory**:
-```git
-cd zomato-restaurant-data-analysis
-```
+2. **Navigate to the directory**
 
 3. **Install dependencies**:
 ```python
