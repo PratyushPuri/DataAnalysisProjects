@@ -132,7 +132,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-5. **Open** `notebooks/zomato_eda.ipynb` and run the cells
+5. **Open** `notebooks` and run the cells
 
 ## 📝 Requirements
 
