@@ -1,4 +1,10 @@
 # 🏦 Bank Customer Churn Analysis Dashboard
+<div align="center">
+  
+![Bank Churn](../../assets/churn.jpg)
+
+</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
