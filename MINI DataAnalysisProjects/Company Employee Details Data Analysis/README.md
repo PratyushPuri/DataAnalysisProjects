@@ -1,10 +1,6 @@
 # 🏢 Employee Data Analysis Project
 
-<div align="center">
-  
-![Bank Churn](../../assets/churn.jpg)
 
-</div>
 
 
 <div align="center">
