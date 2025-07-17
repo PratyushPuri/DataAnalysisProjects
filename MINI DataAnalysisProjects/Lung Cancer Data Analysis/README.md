@@ -1,6 +1,10 @@
 # Lung Cancer Data Analysis
 
+<div align="center">
+  
+![Lung Cancer](../../assets/Lung.jpg)
 
+</div>
 
 A comprehensive data science project analyzing lung cancer patient data from across Europe to identify risk factors, treatment patterns, and survival outcomes.
 
@@ -156,13 +160,10 @@ This analysis provides valuable insights for:
 ## 👨‍💻 Author
 
 **Pratyush Puri**  
-LinkedIn: [www.linkedin.com/in/pratyushpuri](https://www.linkedin.com/in/pratyushpuri)
+Data Science & AI Enthusiast  
+Specializing in Generative AI, NLP, Machine Learning, Deep Learning, and Data Analytics  
 
-## 🙏 Acknowledgments
-
-- European cancer registries for data contribution
-- Healthcare institutions for clinical insights
-- Open-source community for analytical tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://linkedin.com/in/pratyushpuri ) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/PratyushPuri ) [![Website](https://img.shields.io/badge/My_Website-4CAF50?style=for-the-badge&logo=chrome&logoColor=white)]( https://www.pratyushpuri.space )
 
 ---
 
