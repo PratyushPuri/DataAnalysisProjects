@@ -1,5 +1,12 @@
 # 🫁 Asthma Disease Data Analysis
 
+<div align="center">
+  
+![Lung Cancer](../../assets/asthma.jpg)
+
+</div>
+
+
 ## 📋 Project Overview
 
 This project presents a comprehensive analysis of a synthetic asthma dataset containing 10,000 patient records with 17 variables covering demographic, clinical, and environmental factors related to asthma. The analysis includes exploratory data analysis, beautiful visualizations, and statistical insights into asthma prevalence and management patterns.
