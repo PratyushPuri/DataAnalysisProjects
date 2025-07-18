@@ -1,6 +1,13 @@
 # 🤖 AI Assistant Usage in Student Life - Data Analysis Project
 
 <div align="center">
+  
+![Student AI Dependency](../../assets/student_ai.jpg)
+
+</div>
+
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
@@ -34,9 +41,12 @@ This comprehensive data analysis project explores **AI assistant usage patterns 
 | **Disciplines** | Biology, Business, Computer Science, Engineering, History, Math, Psychology |
 | **Key Metrics** | Session length, prompt count, AI assistance level, satisfaction ratings |
 
+<br>
+
 ### 📈 Dataset Statistics
 
-
+| **Attribute** | **Description** |
+|---------------|-----------------|
 | **Total Sessions** | 10,000 |
 | **Average Session Length** | 19.85 minutes |
 | **Average Prompts per Session** | 5.6 |
