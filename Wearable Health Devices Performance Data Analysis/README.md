@@ -40,7 +40,7 @@ This project delivers strategic insights into the wearable health technology mar
 
 - Clone the repository
 ```git
-git clone https://github.com/yourusername/wearable-health-analysis.git
+git clone https://github.com/PratyushPuri/wearable-health-analysis.git
 cd wearable-health-analysis
 ```
 
